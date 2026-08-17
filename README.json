@@ -19,7 +19,7 @@
             "last_commit": "2024-12-10T11:12:02Z",
             "owner": "gitname",
             "repo": "react-gh-pages",
-            "stars": 6960
+            "stars": 6959
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-08-05T19:35:16Z",
             "owner": "ant-design",
             "repo": "ant-design-landing",
-            "stars": 6521
+            "stars": 6518
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2024-06-15T21:41:58Z",
             "owner": "sproogen",
             "repo": "modern-resume-theme",
-            "stars": 2304
+            "stars": 2305
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-11-27T01:12:01Z",
             "owner": "jglovier",
             "repo": "resume-template",
-            "stars": 1973
+            "stars": 1972
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:48:41.002Z",
+    "last_updated": "2026-08-17T13:57:21.669Z",
     "original_repository": "nordicgiant2/awesome-landing-page",
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
     "enhanced_repository": "enhansome/enhansome-landing-page",
