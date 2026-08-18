@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,821 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,238 | 🐛 102 | 📅 2026-08-18
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,13 +10,13 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,958 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,518 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,517 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,305 | 🐛 12 | 🌐 HTML | 📅 2024-06-15
 
-* <https://github.com/carlsednaoui/ouibounce> ⭐ 2,294 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
+* <https://github.com/carlsednaoui/ouibounce> ⭐ 2,293 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,972 | 🐛 25 | 🌐 HTML | 📅 2024-11-27
 
@@ -24,15 +24,15 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,672 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
-* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,451 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
+* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,452 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,386 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,362 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,363 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,347 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
-* <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,154 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
+* <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,153 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
 * <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 935 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
@@ -58,7 +58,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/vercel/spr-landing> ⭐ 451 | 🐛 9 | 🌐 CSS | 📅 2023-08-16
 
-* <https://github.com/StartBootstrap/startbootstrap-one-page-wonder> ⭐ 398 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-24
+* <https://github.com/StartBootstrap/startbootstrap-one-page-wonder> ⭐ 399 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-24
 
 * <https://github.com/wonderfullandingpage/mylandingpage> ⭐ 266 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-18
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

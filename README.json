@@ -19,7 +19,7 @@
             "last_commit": "2024-12-10T11:12:02Z",
             "owner": "gitname",
             "repo": "react-gh-pages",
-            "stars": 6959
+            "stars": 6958
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-08-05T19:35:16Z",
             "owner": "ant-design",
             "repo": "ant-design-landing",
-            "stars": 6518
+            "stars": 6517
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2017-05-14T12:50:21Z",
             "owner": "carlsednaoui",
             "repo": "ouibounce",
-            "stars": 2294
+            "stars": 2293
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-04-25T15:34:07Z",
             "owner": "tailwindtoolbox",
             "repo": "Landing-Page",
-            "stars": 1451
+            "stars": 1452
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2025-10-01T10:16:40Z",
             "owner": "SimonAKing",
             "repo": "HomePage",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2023-05-24T01:44:35Z",
             "owner": "StartBootstrap",
             "repo": "startbootstrap-new-age",
-            "stars": 1154
+            "stars": 1153
           }
         },
         {
@@ -355,7 +355,7 @@
             "last_commit": "2023-05-24T01:44:40Z",
             "owner": "StartBootstrap",
             "repo": "startbootstrap-one-page-wonder",
-            "stars": 398
+            "stars": 399
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:57:21.669Z",
+    "last_updated": "2026-08-18T14:01:47.202Z",
     "original_repository": "nordicgiant2/awesome-landing-page",
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
     "enhanced_repository": "enhansome/enhansome-landing-page",
