@@ -2,772 +2,817 @@
   "items": [
     {
       "description": "There are a lot of beautiful landing page templates. They are built using various front-end technologies. I hope you like them.\nIf you want to submit your page, please fork this project and submit a PR.",
-      "items": [],
-      "title": "🚀 A series of beautiful and practical landing page templates"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "https://github.com/gitname/react-gh-pages",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/gitname/react-gh-pages",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94150359,
+                "language": "TypeScript",
+                "last_commit": "2024-12-10T11:12:02Z",
+                "owner": "gitname",
+                "repo": "react-gh-pages",
+                "stars": 6958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ant-design/ant-design-landing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119497246,
+                "language": "JavaScript",
+                "last_commit": "2024-08-05T19:35:16Z",
+                "owner": "ant-design",
+                "repo": "ant-design-landing",
+                "stars": 6517
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/sproogen/modern-resume-theme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136092503,
+                "language": "HTML",
+                "last_commit": "2024-06-15T21:41:58Z",
+                "owner": "sproogen",
+                "repo": "modern-resume-theme",
+                "stars": 2304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/carlsednaoui/ouibounce",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15263202,
+                "language": "JavaScript",
+                "last_commit": "2017-05-14T12:50:21Z",
+                "owner": "carlsednaoui",
+                "repo": "ouibounce",
+                "stars": 2293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jglovier/resume-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39298347,
+                "language": "HTML",
+                "last_commit": "2024-11-27T01:12:01Z",
+                "owner": "jglovier",
+                "repo": "resume-template",
+                "stars": 1972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Blazity/next-saas-starter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402884762,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T22:42:39Z",
+                "owner": "Blazity",
+                "repo": "next-saas-starter",
+                "stars": 1685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/StartBootstrap/startbootstrap-landing-page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25714498,
+                "language": "Pug",
+                "last_commit": "2024-07-08T18:51:16Z",
+                "owner": "StartBootstrap",
+                "repo": "startbootstrap-landing-page",
+                "stars": 1672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tailwindtoolbox/Landing-Page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177629371,
+                "language": "HTML",
+                "last_commit": "2024-04-25T15:34:07Z",
+                "owner": "tailwindtoolbox",
+                "repo": "Landing-Page",
+                "stars": 1452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/dennybritz/neal-react",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43841094,
+                "language": "JavaScript",
+                "last_commit": "2019-02-12T01:25:59Z",
+                "owner": "dennybritz",
+                "repo": "neal-react",
+                "stars": 1386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Tomotoes/HomePage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293678729,
+                "language": "JavaScript",
+                "last_commit": "2025-10-01T10:16:40Z",
+                "owner": "SimonAKing",
+                "repo": "HomePage",
+                "stars": 1364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/flexdinesh/dev-landing-page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124433909,
+                "language": "HTML",
+                "last_commit": "2024-05-20T21:51:36Z",
+                "owner": "flexdinesh",
+                "repo": "dev-landing-page",
+                "stars": 1347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/StartBootstrap/startbootstrap-new-age",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66888727,
+                "language": "Pug",
+                "last_commit": "2023-05-24T01:44:35Z",
+                "owner": "StartBootstrap",
+                "repo": "startbootstrap-new-age",
+                "stars": 1153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/sandoche/Mobile-app-landingpage-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281891029,
+                "language": "HTML",
+                "last_commit": "2024-01-17T19:44:29Z",
+                "owner": "sandoche",
+                "repo": "Mobile-app-landingpage-template",
+                "stars": 935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nordicgiant2/react-nice-resume",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225612764,
+                "language": "JavaScript",
+                "last_commit": "2024-06-16T06:10:50Z",
+                "owner": "nordicgiant2",
+                "repo": "react-nice-resume",
+                "stars": 686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/cssninjaStudio/fresh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117474984,
+                "language": "SCSS",
+                "last_commit": "2024-04-27T22:49:17Z",
+                "owner": "cssninjaStudio",
+                "repo": "fresh",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Esri/esri.github.io",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5364106,
+                "language": "JavaScript",
+                "last_commit": "2026-07-25T00:31:33Z",
+                "owner": "Esri",
+                "repo": "esri.github.io",
+                "stars": 629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/joashp/material-design-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30492649,
+                "language": "JavaScript",
+                "last_commit": "2021-10-18T08:01:20Z",
+                "owner": "joashp",
+                "repo": "material-design-template",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/omegasisters/homepage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228789619,
+                "language": "HTML",
+                "last_commit": "2024-10-29T10:50:22Z",
+                "owner": "omegasisters",
+                "repo": "homepage",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Jaredk3nt/homepage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115354558,
+                "language": "HTML",
+                "last_commit": "2024-07-22T16:02:01Z",
+                "owner": "Jaredk3nt",
+                "repo": "homepage",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/byoungd/Resume-template-for-Coder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93990477,
+                "language": null,
+                "last_commit": "2022-02-22T01:44:03Z",
+                "owner": "byoungd",
+                "repo": "Resume-template-for-Coder",
+                "stars": 530
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/StartBootstrap/startbootstrap-shop-homepage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25714640,
+                "language": "Pug",
+                "last_commit": "2023-10-30T15:43:50Z",
+                "owner": "StartBootstrap",
+                "repo": "startbootstrap-shop-homepage",
+                "stars": 492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/swcool/landing-page-theme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24792726,
+                "language": "CSS",
+                "last_commit": "2024-01-17T22:06:19Z",
+                "owner": "swcool",
+                "repo": "landing-page-theme",
+                "stars": 471
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/amiechen/codrops-scribbler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117250470,
+                "language": "HTML",
+                "last_commit": "2023-10-07T02:58:12Z",
+                "owner": "amiechen",
+                "repo": "codrops-scribbler",
+                "stars": 464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/vercel/spr-landing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181222261,
+                "language": "CSS",
+                "last_commit": "2023-08-16T14:27:53Z",
+                "owner": "vercel",
+                "repo": "spr-landing",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/StartBootstrap/startbootstrap-one-page-wonder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25714524,
+                "language": "JavaScript",
+                "last_commit": "2023-05-24T01:44:40Z",
+                "owner": "StartBootstrap",
+                "repo": "startbootstrap-one-page-wonder",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wonderfullandingpage/mylandingpage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350583309,
+                "language": "JavaScript",
+                "last_commit": "2023-05-18T19:50:46Z",
+                "owner": "wonderfullandingpage",
+                "repo": "mylandingpage",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/website-templates/portfolio_one-page-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97977074,
+                "language": "HTML",
+                "last_commit": "2024-05-11T02:35:36Z",
+                "owner": "website-templates",
+                "repo": "portfolio_one-page-template",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/StartBootstrap/startbootstrap-business-frontpage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25714425,
+                "language": "Pug",
+                "last_commit": "2023-05-24T01:44:10Z",
+                "owner": "StartBootstrap",
+                "repo": "startbootstrap-business-frontpage",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ITRav4/PlexRedirect",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51883079,
+                "language": "HTML",
+                "last_commit": "2017-01-23T20:15:21Z",
+                "owner": "ITRav4",
+                "repo": "PlexRedirect",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/singhkshitij/My-Landing-Page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176084390,
+                "language": "JavaScript",
+                "last_commit": "2024-02-18T06:58:04Z",
+                "owner": "singhkshitij",
+                "repo": "My-Landing-Page",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/xriley/AppKit-Landing-Theme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49254938,
+                "language": "JavaScript",
+                "last_commit": "2024-09-17T12:52:09Z",
+                "owner": "xriley",
+                "repo": "AppKit-Landing-Theme",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177028530,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T18:22:10Z",
+                "owner": "imedadel",
+                "repo": "automatic-gatsbyjs-app-landing-page",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/StartBootstrap/startbootstrap-heroic-features",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25714467,
+                "language": "JavaScript",
+                "last_commit": "2023-08-16T19:05:28Z",
+                "owner": "StartBootstrap",
+                "repo": "startbootstrap-heroic-features",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/adrienjoly/landing-page-boilerplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45332945,
+                "language": "HTML",
+                "last_commit": "2022-03-09T18:07:50Z",
+                "owner": "adrienjoly",
+                "repo": "landing-page-boilerplate",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/smartergiving/free-nonprofit-starter-website",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45469861,
+                "language": "HTML",
+                "last_commit": "2023-03-18T15:52:40Z",
+                "owner": "smartergiving",
+                "repo": "free-nonprofit-starter-website",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/JayantGoel001/JayantGoel001.github.io/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328273518,
+                "language": "HTML",
+                "last_commit": "2026-05-09T18:22:50Z",
+                "owner": "JayantGoel001",
+                "repo": "JayantGoel001.github.io",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/madzadev/landing-page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304094562,
+                "language": "JavaScript",
+                "last_commit": "2024-08-21T10:13:11Z",
+                "owner": "madzadev",
+                "repo": "landing-page",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/akashgiricse/templates-using-bootstrap4",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113974670,
+                "language": "HTML",
+                "last_commit": "2023-01-11T08:40:03Z",
+                "owner": "akashgiricse",
+                "repo": "templates-using-bootstrap4",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/kriasoft/AngularJS-SPA-Template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14075871,
+                "language": "CSS",
+                "last_commit": "2017-05-11T17:23:25Z",
+                "owner": "kriasoft",
+                "repo": "AngularJS-SPA-Template",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/brikis98/yevgeniy-brikman-homepage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33806754,
+                "language": "Ruby",
+                "last_commit": "2026-08-05T13:04:41Z",
+                "owner": "brikis98",
+                "repo": "yevgeniy-brikman-homepage",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wonderfullandingpage/Technology-LandingPage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353281249,
+                "language": "JavaScript",
+                "last_commit": "2021-04-01T06:29:03Z",
+                "owner": "wonderfullandingpage",
+                "repo": "Technology-LandingPage",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/micua/home",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44095996,
+                "language": "HTML",
+                "last_commit": "2016-04-26T03:05:59Z",
+                "owner": "micua",
+                "repo": "home",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/happypeter/happypeter.github.com",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605042,
+                "language": "HTML",
+                "last_commit": "2025-07-16T14:15:45Z",
+                "owner": "happypeter",
+                "repo": "happypeter.github.com",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nordicgiant2/sn-landing-page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227346865,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T13:37:03Z",
+                "owner": "nordicgiant2",
+                "repo": "sn-landing-page",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nordicgiant2/vue-nice-homepage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226782147,
+                "language": null,
+                "last_commit": "2021-03-20T02:06:04Z",
+                "owner": "nordicgiant2",
+                "repo": "vue-nice-homepage",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wonderfullandingpage/react-exquisite-resume",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353964103,
+                "language": "SCSS",
+                "last_commit": "2021-04-16T02:56:45Z",
+                "owner": "wonderfullandingpage",
+                "repo": "react-exquisite-resume",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nordicgiant2/cool-landing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228531436,
+                "language": "JavaScript",
+                "last_commit": "2019-12-17T05:34:00Z",
+                "owner": "nordicgiant2",
+                "repo": "cool-landing",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nordicgiant2/gh-pages-theme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228277796,
+                "language": "JavaScript",
+                "last_commit": "2021-03-19T11:40:33Z",
+                "owner": "nordicgiant2",
+                "repo": "gh-pages-theme",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/coala/landing-frontend",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79438710,
+                "language": "HTML",
+                "last_commit": "2019-01-15T07:08:20Z",
+                "owner": "coala",
+                "repo": "landing-frontend",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/doniwirawan/Gradient-Landing-Page/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387680709,
+                "language": "HTML",
+                "last_commit": "2025-05-13T08:39:48Z",
+                "owner": "doniwirawan",
+                "repo": "doniwirawan.github.io",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ahmedhamodi/ahmedhamodi.github.io",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67325479,
+                "language": "JavaScript",
+                "last_commit": "2023-11-12T02:03:04Z",
+                "owner": "ahmedhamodi",
+                "repo": "ahmedhamodi.github.io",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/divyu135/moodify-playlist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348809171,
+                "language": "CSS",
+                "last_commit": "2021-04-03T01:36:12Z",
+                "owner": "divyu135",
+                "repo": "moodify-playlist",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/caarlosdamian/react-website-portafolio/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375769671,
+                "language": "CSS",
+                "last_commit": "2021-06-26T17:07:27Z",
+                "owner": "caarlosdamian",
+                "repo": "react-website-portafolio",
+                "stars": 7
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-10T11:12:02Z",
-            "owner": "gitname",
-            "repo": "react-gh-pages",
-            "stars": 6958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ant-design/ant-design-landing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-05T19:35:16Z",
-            "owner": "ant-design",
-            "repo": "ant-design-landing",
-            "stars": 6517
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/sproogen/modern-resume-theme",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-06-15T21:41:58Z",
-            "owner": "sproogen",
-            "repo": "modern-resume-theme",
-            "stars": 2305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/carlsednaoui/ouibounce",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-05-14T12:50:21Z",
-            "owner": "carlsednaoui",
-            "repo": "ouibounce",
-            "stars": 2293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/jglovier/resume-template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-11-27T01:12:01Z",
-            "owner": "jglovier",
-            "repo": "resume-template",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Blazity/next-saas-starter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:42:39Z",
-            "owner": "Blazity",
-            "repo": "next-saas-starter",
-            "stars": 1685
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/StartBootstrap/startbootstrap-landing-page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pug",
-            "last_commit": "2024-07-08T18:51:16Z",
-            "owner": "StartBootstrap",
-            "repo": "startbootstrap-landing-page",
-            "stars": 1672
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/tailwindtoolbox/Landing-Page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-04-25T15:34:07Z",
-            "owner": "tailwindtoolbox",
-            "repo": "Landing-Page",
-            "stars": 1452
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/dennybritz/neal-react",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-02-12T01:25:59Z",
-            "owner": "dennybritz",
-            "repo": "neal-react",
-            "stars": 1386
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Tomotoes/HomePage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-01T10:16:40Z",
-            "owner": "SimonAKing",
-            "repo": "HomePage",
-            "stars": 1363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/flexdinesh/dev-landing-page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-05-20T21:51:36Z",
-            "owner": "flexdinesh",
-            "repo": "dev-landing-page",
-            "stars": 1347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/StartBootstrap/startbootstrap-new-age",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pug",
-            "last_commit": "2023-05-24T01:44:35Z",
-            "owner": "StartBootstrap",
-            "repo": "startbootstrap-new-age",
-            "stars": 1153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/sandoche/Mobile-app-landingpage-template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-01-17T19:44:29Z",
-            "owner": "sandoche",
-            "repo": "Mobile-app-landingpage-template",
-            "stars": 935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/nordicgiant2/react-nice-resume",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-16T06:10:50Z",
-            "owner": "nordicgiant2",
-            "repo": "react-nice-resume",
-            "stars": 686
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/cssninjaStudio/fresh",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2024-04-27T22:49:17Z",
-            "owner": "cssninjaStudio",
-            "repo": "fresh",
-            "stars": 669
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Esri/esri.github.io",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-25T00:31:33Z",
-            "owner": "Esri",
-            "repo": "esri.github.io",
-            "stars": 629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/joashp/material-design-template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-18T08:01:20Z",
-            "owner": "joashp",
-            "repo": "material-design-template",
-            "stars": 594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/omegasisters/homepage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-10-29T10:50:22Z",
-            "owner": "omegasisters",
-            "repo": "homepage",
-            "stars": 578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Jaredk3nt/homepage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-07-22T16:02:01Z",
-            "owner": "Jaredk3nt",
-            "repo": "homepage",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/byoungd/Resume-template-for-Coder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-02-22T01:44:03Z",
-            "owner": "byoungd",
-            "repo": "Resume-template-for-Coder",
-            "stars": 530
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/StartBootstrap/startbootstrap-shop-homepage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pug",
-            "last_commit": "2023-10-30T15:43:50Z",
-            "owner": "StartBootstrap",
-            "repo": "startbootstrap-shop-homepage",
-            "stars": 492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/swcool/landing-page-theme",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-01-17T22:06:19Z",
-            "owner": "swcool",
-            "repo": "landing-page-theme",
-            "stars": 471
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/amiechen/codrops-scribbler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-10-07T02:58:12Z",
-            "owner": "amiechen",
-            "repo": "codrops-scribbler",
-            "stars": 464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/vercel/spr-landing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2023-08-16T14:27:53Z",
-            "owner": "vercel",
-            "repo": "spr-landing",
-            "stars": 451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/StartBootstrap/startbootstrap-one-page-wonder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-24T01:44:40Z",
-            "owner": "StartBootstrap",
-            "repo": "startbootstrap-one-page-wonder",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/wonderfullandingpage/mylandingpage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-18T19:50:46Z",
-            "owner": "wonderfullandingpage",
-            "repo": "mylandingpage",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/website-templates/portfolio_one-page-template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-05-11T02:35:36Z",
-            "owner": "website-templates",
-            "repo": "portfolio_one-page-template",
-            "stars": 261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/StartBootstrap/startbootstrap-business-frontpage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pug",
-            "last_commit": "2023-05-24T01:44:10Z",
-            "owner": "StartBootstrap",
-            "repo": "startbootstrap-business-frontpage",
-            "stars": 248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ITRav4/PlexRedirect",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-01-23T20:15:21Z",
-            "owner": "ITRav4",
-            "repo": "PlexRedirect",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/singhkshitij/My-Landing-Page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-18T06:58:04Z",
-            "owner": "singhkshitij",
-            "repo": "My-Landing-Page",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/xriley/AppKit-Landing-Theme",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-17T12:52:09Z",
-            "owner": "xriley",
-            "repo": "AppKit-Landing-Theme",
-            "stars": 196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T18:22:10Z",
-            "owner": "imedadel",
-            "repo": "automatic-gatsbyjs-app-landing-page",
-            "stars": 195
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/StartBootstrap/startbootstrap-heroic-features",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-16T19:05:28Z",
-            "owner": "StartBootstrap",
-            "repo": "startbootstrap-heroic-features",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/adrienjoly/landing-page-boilerplate",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-03-09T18:07:50Z",
-            "owner": "adrienjoly",
-            "repo": "landing-page-boilerplate",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/smartergiving/free-nonprofit-starter-website",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-03-18T15:52:40Z",
-            "owner": "smartergiving",
-            "repo": "free-nonprofit-starter-website",
-            "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/JayantGoel001/JayantGoel001.github.io/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-09T18:22:50Z",
-            "owner": "JayantGoel001",
-            "repo": "JayantGoel001.github.io",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/madzadev/landing-page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-21T10:13:11Z",
-            "owner": "madzadev",
-            "repo": "landing-page",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/akashgiricse/templates-using-bootstrap4",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-01-11T08:40:03Z",
-            "owner": "akashgiricse",
-            "repo": "templates-using-bootstrap4",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/kriasoft/AngularJS-SPA-Template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2017-05-11T17:23:25Z",
-            "owner": "kriasoft",
-            "repo": "AngularJS-SPA-Template",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/brikis98/yevgeniy-brikman-homepage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-05T13:04:41Z",
-            "owner": "brikis98",
-            "repo": "yevgeniy-brikman-homepage",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/wonderfullandingpage/Technology-LandingPage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-01T06:29:03Z",
-            "owner": "wonderfullandingpage",
-            "repo": "Technology-LandingPage",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/micua/home",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2016-04-26T03:05:59Z",
-            "owner": "micua",
-            "repo": "home",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/happypeter/happypeter.github.com",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-07-16T14:15:45Z",
-            "owner": "happypeter",
-            "repo": "happypeter.github.com",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/nordicgiant2/sn-landing-page",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-04T13:37:03Z",
-            "owner": "nordicgiant2",
-            "repo": "sn-landing-page",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/nordicgiant2/vue-nice-homepage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-20T02:06:04Z",
-            "owner": "nordicgiant2",
-            "repo": "vue-nice-homepage",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/wonderfullandingpage/react-exquisite-resume",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2021-04-16T02:56:45Z",
-            "owner": "wonderfullandingpage",
-            "repo": "react-exquisite-resume",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/nordicgiant2/cool-landing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-12-17T05:34:00Z",
-            "owner": "nordicgiant2",
-            "repo": "cool-landing",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/nordicgiant2/gh-pages-theme",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-03-19T11:40:33Z",
-            "owner": "nordicgiant2",
-            "repo": "gh-pages-theme",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/coala/landing-frontend",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-01-15T07:08:20Z",
-            "owner": "coala",
-            "repo": "landing-frontend",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/doniwirawan/Gradient-Landing-Page/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-05-13T08:39:48Z",
-            "owner": "doniwirawan",
-            "repo": "doniwirawan.github.io",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ahmedhamodi/ahmedhamodi.github.io",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-12T02:03:04Z",
-            "owner": "ahmedhamodi",
-            "repo": "ahmedhamodi.github.io",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/divyu135/moodify-playlist",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-04-03T01:36:12Z",
-            "owner": "divyu135",
-            "repo": "moodify-playlist",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/caarlosdamian/react-website-portafolio/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-06-26T17:07:27Z",
-            "owner": "caarlosdamian",
-            "repo": "react-website-portafolio",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/yourfirstpr/yourfirstpr.github.io",
-          "description": null,
-          "children": []
+          "node_type": "group",
+          "title": "Open source project"
         }
       ],
-      "title": "Open source project"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
+      "title": "🚀 A series of beautiful and practical landing page templates"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:01:47.202Z",
+    "last_updated": "2026-08-19T12:37:03.641Z",
     "original_repository": "nordicgiant2/awesome-landing-page",
+    "original_repository_id": 282611558,
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
     "enhanced_repository": "enhansome/enhansome-landing-page",
     "enhanced_repository_description": null,
