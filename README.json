@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-05T19:35:16Z",
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6517
+                "stars": 6519
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-06-15T21:41:58Z",
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2304
+                "stars": 2298
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2024-01-17T19:44:29Z",
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 935
+                "stars": 936
               }
             },
             {
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:02:34.965Z",
+    "last_updated": "2026-08-20T14:04:50.530Z",
     "original_repository": "nordicgiant2/awesome-landing-page",
     "original_repository_id": 282611558,
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
