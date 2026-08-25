@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/gitname/react-gh-pages",
+              "title": "gitname/react-gh-pages",
               "description": null,
               "children": [],
               "repo_info": {
@@ -22,7 +22,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ant-design/ant-design-landing",
+              "title": "ant-design/ant-design-landing",
               "description": null,
               "children": [],
               "repo_info": {
@@ -32,12 +32,12 @@
                 "last_commit": "2024-08-05T19:35:16Z",
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6522
+                "stars": 6523
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/sproogen/modern-resume-theme",
+              "title": "sproogen/modern-resume-theme",
               "description": null,
               "children": [],
               "repo_info": {
@@ -52,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/carlsednaoui/ouibounce",
+              "title": "carlsednaoui/ouibounce",
               "description": null,
               "children": [],
               "repo_info": {
@@ -67,7 +67,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/jglovier/resume-template",
+              "title": "jglovier/resume-template",
               "description": null,
               "children": [],
               "repo_info": {
@@ -82,7 +82,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Blazity/next-saas-starter",
+              "title": "Blazity/next-saas-starter",
               "description": null,
               "children": [],
               "repo_info": {
@@ -97,7 +97,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/StartBootstrap/startbootstrap-landing-page",
+              "title": "StartBootstrap/startbootstrap-landing-page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -112,7 +112,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/tailwindtoolbox/Landing-Page",
+              "title": "tailwindtoolbox/Landing-Page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -127,7 +127,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/dennybritz/neal-react",
+              "title": "dennybritz/neal-react",
               "description": null,
               "children": [],
               "repo_info": {
@@ -142,7 +142,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Tomotoes/HomePage",
+              "title": "SimonAKing/HomePage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -152,12 +152,12 @@
                 "last_commit": "2025-10-01T10:16:40Z",
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1363
+                "stars": 1364
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/flexdinesh/dev-landing-page",
+              "title": "flexdinesh/dev-landing-page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -172,7 +172,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/StartBootstrap/startbootstrap-new-age",
+              "title": "StartBootstrap/startbootstrap-new-age",
               "description": null,
               "children": [],
               "repo_info": {
@@ -187,7 +187,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/sandoche/Mobile-app-landingpage-template",
+              "title": "sandoche/Mobile-app-landingpage-template",
               "description": null,
               "children": [],
               "repo_info": {
@@ -202,7 +202,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/nordicgiant2/react-nice-resume",
+              "title": "nordicgiant2/react-nice-resume",
               "description": null,
               "children": [],
               "repo_info": {
@@ -217,7 +217,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/cssninjaStudio/fresh",
+              "title": "cssninjaStudio/fresh",
               "description": null,
               "children": [],
               "repo_info": {
@@ -232,7 +232,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Esri/esri.github.io",
+              "title": "Esri/esri.github.io",
               "description": null,
               "children": [],
               "repo_info": {
@@ -242,12 +242,12 @@
                 "last_commit": "2026-07-25T00:31:33Z",
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 629
+                "stars": 630
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/joashp/material-design-template",
+              "title": "joashp/material-design-template",
               "description": null,
               "children": [],
               "repo_info": {
@@ -262,7 +262,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/omegasisters/homepage",
+              "title": "omegasisters/homepage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -277,7 +277,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Jaredk3nt/homepage",
+              "title": "Jaredk3nt/homepage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -292,7 +292,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/byoungd/Resume-template-for-Coder",
+              "title": "byoungd/Resume-template-for-Coder",
               "description": null,
               "children": [],
               "repo_info": {
@@ -307,7 +307,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/StartBootstrap/startbootstrap-shop-homepage",
+              "title": "StartBootstrap/startbootstrap-shop-homepage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -322,7 +322,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/swcool/landing-page-theme",
+              "title": "swcool/landing-page-theme",
               "description": null,
               "children": [],
               "repo_info": {
@@ -337,7 +337,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/amiechen/codrops-scribbler",
+              "title": "amiechen/codrops-scribbler",
               "description": null,
               "children": [],
               "repo_info": {
@@ -352,7 +352,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/vercel/spr-landing",
+              "title": "vercel/spr-landing",
               "description": null,
               "children": [],
               "repo_info": {
@@ -367,7 +367,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/StartBootstrap/startbootstrap-one-page-wonder",
+              "title": "StartBootstrap/startbootstrap-one-page-wonder",
               "description": null,
               "children": [],
               "repo_info": {
@@ -382,7 +382,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/wonderfullandingpage/mylandingpage",
+              "title": "wonderfullandingpage/mylandingpage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -397,7 +397,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/website-templates/portfolio_one-page-template",
+              "title": "website-templates/portfolio_one-page-template",
               "description": null,
               "children": [],
               "repo_info": {
@@ -412,7 +412,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/StartBootstrap/startbootstrap-business-frontpage",
+              "title": "StartBootstrap/startbootstrap-business-frontpage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -427,7 +427,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ITRav4/PlexRedirect",
+              "title": "ITRav4/PlexRedirect",
               "description": null,
               "children": [],
               "repo_info": {
@@ -442,7 +442,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/singhkshitij/My-Landing-Page",
+              "title": "singhkshitij/My-Landing-Page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -457,7 +457,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/xriley/AppKit-Landing-Theme",
+              "title": "xriley/AppKit-Landing-Theme",
               "description": null,
               "children": [],
               "repo_info": {
@@ -472,7 +472,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page",
+              "title": "imedadel/automatic-gatsbyjs-app-landing-page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -487,7 +487,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/StartBootstrap/startbootstrap-heroic-features",
+              "title": "StartBootstrap/startbootstrap-heroic-features",
               "description": null,
               "children": [],
               "repo_info": {
@@ -502,7 +502,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/adrienjoly/landing-page-boilerplate",
+              "title": "adrienjoly/landing-page-boilerplate",
               "description": null,
               "children": [],
               "repo_info": {
@@ -517,7 +517,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/smartergiving/free-nonprofit-starter-website",
+              "title": "smartergiving/free-nonprofit-starter-website",
               "description": null,
               "children": [],
               "repo_info": {
@@ -532,7 +532,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/JayantGoel001/JayantGoel001.github.io/",
+              "title": "JayantGoel001/JayantGoel001.github.io",
               "description": null,
               "children": [],
               "repo_info": {
@@ -547,7 +547,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/madzadev/landing-page",
+              "title": "madzadev/landing-page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -562,7 +562,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/akashgiricse/templates-using-bootstrap4",
+              "title": "akashgiricse/templates-using-bootstrap4",
               "description": null,
               "children": [],
               "repo_info": {
@@ -577,7 +577,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/kriasoft/AngularJS-SPA-Template",
+              "title": "kriasoft/AngularJS-SPA-Template",
               "description": null,
               "children": [],
               "repo_info": {
@@ -592,7 +592,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/brikis98/yevgeniy-brikman-homepage",
+              "title": "brikis98/yevgeniy-brikman-homepage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -607,7 +607,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/wonderfullandingpage/Technology-LandingPage",
+              "title": "wonderfullandingpage/Technology-LandingPage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -622,7 +622,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/micua/home",
+              "title": "micua/home",
               "description": null,
               "children": [],
               "repo_info": {
@@ -637,7 +637,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/happypeter/happypeter.github.com",
+              "title": "happypeter/happypeter.github.com",
               "description": null,
               "children": [],
               "repo_info": {
@@ -652,7 +652,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/nordicgiant2/sn-landing-page",
+              "title": "nordicgiant2/sn-landing-page",
               "description": null,
               "children": [],
               "repo_info": {
@@ -667,7 +667,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/nordicgiant2/vue-nice-homepage",
+              "title": "nordicgiant2/vue-nice-homepage",
               "description": null,
               "children": [],
               "repo_info": {
@@ -682,7 +682,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/wonderfullandingpage/react-exquisite-resume",
+              "title": "wonderfullandingpage/react-exquisite-resume",
               "description": null,
               "children": [],
               "repo_info": {
@@ -697,7 +697,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/nordicgiant2/cool-landing",
+              "title": "nordicgiant2/cool-landing",
               "description": null,
               "children": [],
               "repo_info": {
@@ -712,7 +712,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/nordicgiant2/gh-pages-theme",
+              "title": "nordicgiant2/gh-pages-theme",
               "description": null,
               "children": [],
               "repo_info": {
@@ -727,7 +727,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/coala/landing-frontend",
+              "title": "coala/landing-frontend",
               "description": null,
               "children": [],
               "repo_info": {
@@ -742,7 +742,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/doniwirawan/Gradient-Landing-Page/",
+              "title": "doniwirawan/doniwirawan.github.io",
               "description": null,
               "children": [],
               "repo_info": {
@@ -757,7 +757,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ahmedhamodi/ahmedhamodi.github.io",
+              "title": "ahmedhamodi/ahmedhamodi.github.io",
               "description": null,
               "children": [],
               "repo_info": {
@@ -772,7 +772,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/divyu135/moodify-playlist",
+              "title": "divyu135/moodify-playlist",
               "description": null,
               "children": [],
               "repo_info": {
@@ -787,7 +787,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/caarlosdamian/react-website-portafolio/",
+              "title": "caarlosdamian/react-website-portafolio",
               "description": null,
               "children": [],
               "repo_info": {
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:20.909Z",
+    "last_updated": "2026-08-25T05:53:14.890Z",
     "original_repository": "nordicgiant2/awesome-landing-page",
     "original_repository_id": 282611558,
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",

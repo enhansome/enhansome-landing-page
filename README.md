@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,7 +12,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,958 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,522 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,523 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,299 | 🐛 12 | 🌐 HTML | 📅 2024-06-15
 
@@ -28,7 +28,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,383 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,363 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,364 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,347 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
@@ -40,7 +40,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/cssninjaStudio/fresh> ⭐ 669 | 🐛 8 | 🌐 SCSS | 📅 2024-04-27
 
-* <https://github.com/Esri/esri.github.io> ⭐ 629 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
+* <https://github.com/Esri/esri.github.io> ⭐ 630 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
 * <https://github.com/joashp/material-design-template> ⭐ 594 | 🐛 4 | 🌐 JavaScript | 📅 2021-10-18
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
