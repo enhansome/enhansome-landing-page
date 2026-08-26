@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-05T19:35:16Z",
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6523
+                "stars": 6524
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-06-15T21:41:58Z",
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2299
+                "stars": 2300
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-11-27T01:12:01Z",
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1972
+                "stars": 1971
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 402884762,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:31:18Z",
+                "last_commit": "2026-08-26T13:07:58Z",
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1685
+                "stars": 1686
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-07-08T18:51:16Z",
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1672
+                "stars": 1671
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2024-06-16T06:10:50Z",
                 "owner": "nordicgiant2",
                 "repo": "react-nice-resume",
-                "stars": 686
+                "stars": 685
               }
             },
             {
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:10:00.525Z",
+    "last_updated": "2026-08-26T14:08:56.880Z",
     "original_repository": "nordicgiant2/awesome-landing-page",
     "original_repository_id": 282611558,
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
