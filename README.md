@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,099 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -18,9 +18,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,293 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
-* <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 25 | 🌐 HTML | 📅 2024-11-27
+* <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 25 | 🌐 HTML | 📅 2026-08-27
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,686 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-26
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,685 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-26
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,671 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 39298347,
                 "language": "HTML",
-                "last_commit": "2024-11-27T01:12:01Z",
+                "last_commit": "2026-08-27T00:36:54Z",
                 "owner": "jglovier",
                 "repo": "resume-template",
                 "stars": 1971
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-26T13:07:58Z",
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1686
+                "stars": 1685
               }
             },
             {
@@ -810,9 +810,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:08:56.880Z",
-    "original_repository": "nordicgiant2/awesome-landing-page",
-    "original_repository_id": 282611558,
+    "last_updated": "2026-08-27T11:46:17.159Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 282611558,
+      "language": null,
+      "last_commit": "2022-01-02T03:44:33Z",
+      "owner": "nordicgiant2",
+      "repo": "awesome-landing-page",
+      "stars": 3816
+    },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
     "enhanced_repository": "enhansome/enhansome-landing-page",
     "enhanced_repository_description": null,
