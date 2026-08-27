@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,525 | 🐛 105 | 📅 2026-08-21
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,9 +12,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,524 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,525 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
-* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,300 | 🐛 12 | 🌐 HTML | 📅 2024-06-15
+* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,299 | 🐛 12 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,293 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
