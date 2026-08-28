@@ -18,7 +18,8 @@
                 "owner": "gitname",
                 "repo": "react-gh-pages",
                 "stars": 6959
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
                 "stars": 6525
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2024-06-15T21:41:58Z",
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2299
-              }
+                "stars": 2300
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
                 "stars": 2293
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "jglovier",
                 "repo": "resume-template",
                 "stars": 1971
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
                 "stars": 1685
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
                 "stars": 1671
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
                 "stars": 1451
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "dennybritz",
                 "repo": "neal-react",
                 "stars": 1383
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "SimonAKing",
                 "repo": "HomePage",
                 "stars": 1364
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -167,8 +177,9 @@
                 "last_commit": "2024-05-20T21:51:36Z",
                 "owner": "flexdinesh",
                 "repo": "dev-landing-page",
-                "stars": 1347
-              }
+                "stars": 1346
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-new-age",
                 "stars": 1153
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -197,8 +209,9 @@
                 "last_commit": "2024-01-17T19:44:29Z",
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 937
-              }
+                "stars": 938
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "nordicgiant2",
                 "repo": "react-nice-resume",
                 "stars": 685
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
                 "stars": 669
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "Esri",
                 "repo": "esri.github.io",
                 "stars": 630
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "joashp",
                 "repo": "material-design-template",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "omegasisters",
                 "repo": "homepage",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
                 "stars": 539
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "byoungd",
                 "repo": "Resume-template-for-Coder",
                 "stars": 530
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-shop-homepage",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "swcool",
                 "repo": "landing-page-theme",
                 "stars": 471
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "amiechen",
                 "repo": "codrops-scribbler",
                 "stars": 464
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "vercel",
                 "repo": "spr-landing",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-one-page-wonder",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -393,7 +418,8 @@
                 "owner": "wonderfullandingpage",
                 "repo": "mylandingpage",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "website-templates",
                 "repo": "portfolio_one-page-template",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-business-frontpage",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -438,7 +466,8 @@
                 "owner": "ITRav4",
                 "repo": "PlexRedirect",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -453,7 +482,8 @@
                 "owner": "singhkshitij",
                 "repo": "My-Landing-Page",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -468,7 +498,8 @@
                 "owner": "xriley",
                 "repo": "AppKit-Landing-Theme",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "imedadel",
                 "repo": "automatic-gatsbyjs-app-landing-page",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -498,7 +530,8 @@
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-heroic-features",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -513,7 +546,8 @@
                 "owner": "adrienjoly",
                 "repo": "landing-page-boilerplate",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -528,7 +562,8 @@
                 "owner": "smartergiving",
                 "repo": "free-nonprofit-starter-website",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -543,7 +578,8 @@
                 "owner": "JayantGoel001",
                 "repo": "JayantGoel001.github.io",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -558,7 +594,8 @@
                 "owner": "madzadev",
                 "repo": "landing-page",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -573,7 +610,8 @@
                 "owner": "akashgiricse",
                 "repo": "templates-using-bootstrap4",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -588,7 +626,8 @@
                 "owner": "kriasoft",
                 "repo": "AngularJS-SPA-Template",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -603,7 +642,8 @@
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -618,7 +658,8 @@
                 "owner": "wonderfullandingpage",
                 "repo": "Technology-LandingPage",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -633,7 +674,8 @@
                 "owner": "micua",
                 "repo": "home",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -648,7 +690,8 @@
                 "owner": "happypeter",
                 "repo": "happypeter.github.com",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -663,7 +706,8 @@
                 "owner": "nordicgiant2",
                 "repo": "sn-landing-page",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -678,7 +722,8 @@
                 "owner": "nordicgiant2",
                 "repo": "vue-nice-homepage",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -693,7 +738,8 @@
                 "owner": "wonderfullandingpage",
                 "repo": "react-exquisite-resume",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -708,7 +754,8 @@
                 "owner": "nordicgiant2",
                 "repo": "cool-landing",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -723,7 +770,8 @@
                 "owner": "nordicgiant2",
                 "repo": "gh-pages-theme",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -738,7 +786,8 @@
                 "owner": "coala",
                 "repo": "landing-frontend",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -753,7 +802,8 @@
                 "owner": "doniwirawan",
                 "repo": "doniwirawan.github.io",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -768,7 +818,8 @@
                 "owner": "ahmedhamodi",
                 "repo": "ahmedhamodi.github.io",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -783,7 +834,8 @@
                 "owner": "divyu135",
                 "repo": "moodify-playlist",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             },
             {
               "node_type": "item",
@@ -798,7 +850,8 @@
                 "owner": "caarlosdamian",
                 "repo": "react-website-portafolio",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
             }
           ],
           "description": null,
@@ -810,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:59:30.150Z",
+    "last_updated": "2026-08-28T23:05:31.481Z",
     "original_repository_info": {
       "archived": false,
       "id": 282611558,
