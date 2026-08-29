@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploying a React App (created using create-react-app) to GitHub Pages",
+                "homepage": null,
                 "id": 94150359,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-12-10T11:12:02Z",
+                "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6959
+                "stars": 6959,
+                "topics": [
+                  "create-react-app",
+                  "deployment",
+                  "educational",
+                  "gh-pages",
+                  "react",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -28,12 +40,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mountain_bicyclist: Landing Pages of Ant Design System",
+                "homepage": "https://landing.ant.design/",
                 "id": 119497246,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-05T19:35:16Z",
+                "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6525
+                "stars": 6525,
+                "topics": [
+                  "design",
+                  "editor",
+                  "home-page",
+                  "homepage",
+                  "landing",
+                  "landing-page",
+                  "landing-pages",
+                  "landingpage",
+                  "landings",
+                  "page-editor",
+                  "react",
+                  "site",
+                  "template",
+                  "templates"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -44,12 +76,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern static resume template and theme. Powered by Jekyll and GitHub pages.",
+                "homepage": "https://sproogen.github.io/modern-resume-theme/",
                 "id": 136092503,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-06-15T21:41:58Z",
+                "open_issues": 10,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2300
+                "stars": 2300,
+                "topics": [
+                  "cv",
+                  "cv-template",
+                  "demo-template",
+                  "gem",
+                  "github-page",
+                  "jekyll",
+                  "jekyll-theme",
+                  "resume",
+                  "resume-builder",
+                  "resume-template",
+                  "resume-website",
+                  "template",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -60,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Increase your landing page conversion rates.",
+                "homepage": null,
                 "id": 15263202,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-14T12:50:21Z",
+                "open_issues": 45,
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
-                "stars": 2293
+                "stars": 2293,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -76,12 +132,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.",
+                "homepage": "http://resume-template.joelglovier.com",
                 "id": 39298347,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-27T00:36:54Z",
+                "open_issues": 25,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1971
+                "stars": 1971,
+                "topics": [
+                  "css",
+                  "html",
+                  "jekyll",
+                  "resume",
+                  "resume-template",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -92,12 +160,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.",
+                "homepage": "https://next-saas-starter-ashy.vercel.app/",
                 "id": 402884762,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:07:58Z",
+                "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1685
+                "stars": 1685,
+                "topics": [
+                  "hacktoberfest",
+                  "jamstack",
+                  "jamstack-theme",
+                  "landing-page",
+                  "marketing-page",
+                  "next",
+                  "next-starter",
+                  "nextjs",
+                  "nextjs-boilerplate",
+                  "nextjs-starter",
+                  "nextjs-template",
+                  "nextjs-typescript",
+                  "nextjs-typescript-boilerplate",
+                  "starter",
+                  "static-site",
+                  "styled-components",
+                  "template",
+                  "theme",
+                  "typescript",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -108,12 +202,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A responsive, Bootstrap landing page template created by Start Bootstrap",
+                "homepage": "https://startbootstrap.com/theme/landing-page/",
                 "id": 25714498,
                 "language": "Pug",
+                "license": "MIT",
                 "last_commit": "2024-07-08T18:51:16Z",
+                "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1671
+                "stars": 1671,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-4",
+                  "bootstrap-5",
+                  "bootstrap-5-template",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5",
+                  "bootstrap5-template",
+                  "css",
+                  "free",
+                  "html",
+                  "landing-page",
+                  "open-source",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -124,12 +239,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tailwind CSS Starter Template - Landing Page",
+                "homepage": "https://tailwindtoolbox.github.io/Landing-Page",
                 "id": 177629371,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-04-25T15:34:07Z",
+                "open_issues": 18,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1451
+                "stars": 1451,
+                "topics": [
+                  "html",
+                  "landing-page",
+                  "landing-page-theme",
+                  "starter-template",
+                  "tailwind-css",
+                  "tailwindcss",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -140,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Startup Landing Page Components for React.js",
+                "homepage": null,
                 "id": 43841094,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2019-02-12T01:25:59Z",
+                "open_issues": 19,
                 "owner": "dennybritz",
                 "repo": "neal-react",
-                "stars": 1383
+                "stars": 1383,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -156,12 +289,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions",
+                "homepage": "https://simonaking.com",
                 "id": 293678729,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-10-01T10:16:40Z",
+                "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1364
+                "stars": 1364,
+                "topics": [
+                  "homepage",
+                  "personal-website"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -172,12 +313,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal landing page for developers",
+                "homepage": null,
                 "id": 124433909,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-05-20T21:51:36Z",
+                "open_issues": 4,
                 "owner": "flexdinesh",
                 "repo": "dev-landing-page",
-                "stars": 1346
+                "stars": 1346,
+                "topics": [
+                  "boilerplate",
+                  "developer",
+                  "landing-page",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -188,12 +339,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web app landing page theme created by Start Bootstrap",
+                "homepage": "https://startbootstrap.com/theme/new-age/",
                 "id": 66888727,
                 "language": "Pug",
+                "license": "MIT",
                 "last_commit": "2023-05-24T01:44:35Z",
+                "open_issues": 7,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-new-age",
-                "stars": 1153
+                "stars": 1153,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-4",
+                  "bootstrap-5",
+                  "bootstrap-5-template",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5",
+                  "bootstrap5-template",
+                  "css",
+                  "free",
+                  "html",
+                  "landing-page-theme",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -204,12 +375,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 Free to use static generated website template for your mobile app",
+                "homepage": "https://mobileapplandingpage.learn.uno",
                 "id": 281891029,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-17T19:44:29Z",
+                "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 938
+                "stars": 938,
+                "topics": [
+                  "android",
+                  "darkmode",
+                  "google-analytics",
+                  "ios",
+                  "jekyll",
+                  "landing",
+                  "landing-page",
+                  "mit-license",
+                  "mobile",
+                  "producthunt",
+                  "showcase-website",
+                  "template",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -220,12 +410,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React.js Nice Resume Template",
+                "homepage": "https://nordicgiant2.github.io/react-nice-resume-page/",
                 "id": 225612764,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-16T06:10:50Z",
+                "open_issues": 19,
                 "owner": "nordicgiant2",
                 "repo": "react-nice-resume",
-                "stars": 685
+                "stars": 685,
+                "topics": [
+                  "react",
+                  "react-resume",
+                  "resume",
+                  "resume-template"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -236,12 +436,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Free Astro Landing page starter",
+                "homepage": "https://fresh.cssninja.io",
                 "id": 117474984,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2024-04-27T22:49:17Z",
+                "open_issues": 8,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
-                "stars": 669
+                "stars": 669,
+                "topics": [
+                  "alpinejs",
+                  "astro",
+                  "bulma",
+                  "html",
+                  "javascript",
+                  "opensource",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -252,12 +465,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Esri GitHub landing page",
+                "homepage": "http://esri.github.io/",
                 "id": 5364106,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T00:31:33Z",
+                "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 630
+                "stars": 630,
+                "topics": [
+                  "css",
+                  "github",
+                  "html",
+                  "javascript",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -268,12 +492,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design Based One Page HTML Template",
+                "homepage": null,
                 "id": 30492649,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-18T08:01:20Z",
+                "open_issues": 4,
                 "owner": "joashp",
                 "repo": "material-design-template",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "html-template",
+                  "material",
+                  "material-design",
+                  "one-page-sites"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -284,12 +518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "おめシスのホームページを作りたい",
+                "homepage": null,
                 "id": 228789619,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-10-29T10:50:22Z",
+                "open_issues": 37,
                 "owner": "omegasisters",
                 "repo": "homepage",
-                "stars": 578
+                "stars": 578,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -300,12 +539,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom homepage for use locally in browser",
+                "homepage": null,
                 "id": 115354558,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-07-22T16:02:01Z",
+                "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "homepage",
+                  "startpage",
+                  "startpages",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -316,12 +565,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resume template for Coder 适合程序员的简历模板 🎉",
+                "homepage": null,
                 "id": 93990477,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-22T01:44:03Z",
+                "open_issues": 0,
                 "owner": "byoungd",
                 "repo": "Resume-template-for-Coder",
-                "stars": 530
+                "stars": 530,
+                "topics": [
+                  "resume-template"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -332,12 +588,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shop homepage Bootstrap HTML template created by Start Bootstrap",
+                "homepage": "https://startbootstrap.com/template/shop-homepage/",
                 "id": 25714640,
                 "language": "Pug",
+                "license": "MIT",
                 "last_commit": "2023-10-30T15:43:50Z",
+                "open_issues": 6,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-shop-homepage",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-4",
+                  "bootstrap-5",
+                  "bootstrap-5-template",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5",
+                  "bootstrap5-template",
+                  "css",
+                  "free",
+                  "html",
+                  "open-source",
+                  "theme",
+                  "themes"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -348,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jekyll Bootstrap theme",
+                "homepage": null,
                 "id": 24792726,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2024-01-17T22:06:19Z",
+                "open_issues": 6,
                 "owner": "swcool",
                 "repo": "landing-page-theme",
-                "stars": 471
+                "stars": 471,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -364,12 +646,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.",
+                "homepage": null,
                 "id": 117250470,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-10-07T02:58:12Z",
+                "open_issues": 3,
                 "owner": "amiechen",
                 "repo": "codrops-scribbler",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "codrops",
+                  "css3",
+                  "documentation-website",
+                  "done",
+                  "html",
+                  "html-template",
+                  "template",
+                  "terminal-theme"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -380,12 +676,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serverless Pre-Rendering Landing Page",
+                "homepage": "https://spr-landing.vercel.sh/",
                 "id": 181222261,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-08-16T14:27:53Z",
+                "open_issues": 9,
                 "owner": "vercel",
                 "repo": "spr-landing",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "demo",
+                  "notion",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -396,12 +701,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, one page, Bootstrap HTML website template created by Start Bootstrap",
+                "homepage": "https://startbootstrap.com/theme/one-page-wonder/",
                 "id": 25714524,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-24T01:44:40Z",
+                "open_issues": 4,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-one-page-wonder",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-4",
+                  "bootstrap-5",
+                  "bootstrap-5-template",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5",
+                  "bootstrap5-template",
+                  "css",
+                  "free",
+                  "html",
+                  "one-page-website",
+                  "onepage",
+                  "open-source",
+                  "startbootstrap",
+                  "startbootstrap-one-page-wonder",
+                  "theme",
+                  "themes"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -412,12 +742,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A react wonderful landingpage template",
+                "homepage": "https://wonderfullandingpage.github.io/mylandingpage/",
                 "id": 350583309,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-18T19:50:46Z",
+                "open_issues": 4,
                 "owner": "wonderfullandingpage",
                 "repo": "mylandingpage",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "landing",
+                  "landing-page",
+                  "landingpage",
+                  "page"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -428,12 +768,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free responsive one page portfolio template",
+                "homepage": "http://website-templates.github.io/portfolio_one-page-template/",
                 "id": 97977074,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-05-11T02:35:36Z",
+                "open_issues": 3,
                 "owner": "website-templates",
                 "repo": "portfolio_one-page-template",
-                "stars": 261
+                "stars": 261,
+                "topics": [
+                  "css3",
+                  "gulp",
+                  "html5",
+                  "onepage",
+                  "personal-website",
+                  "portfolio-template",
+                  "portfolio-website",
+                  "pug",
+                  "responsive",
+                  "sass",
+                  "template",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -444,12 +802,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Bootstrap HTML business homepage template created by Start Bootstrap",
+                "homepage": "https://startbootstrap.com/template/business-frontpage/",
                 "id": 25714425,
                 "language": "Pug",
+                "license": "MIT",
                 "last_commit": "2023-05-24T01:44:10Z",
+                "open_issues": 3,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-business-frontpage",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-4",
+                  "bootstrap-5",
+                  "bootstrap-5-template",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5",
+                  "bootstrap5-template",
+                  "css",
+                  "free",
+                  "html",
+                  "open-source",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -460,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Plex landing page that redirects you to various sites.",
+                "homepage": null,
                 "id": 51883079,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2017-01-23T20:15:21Z",
+                "open_issues": 5,
                 "owner": "ITRav4",
                 "repo": "PlexRedirect",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -476,12 +859,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal Portfolio Page Built with React",
+                "homepage": "https://bit.ly/2Ocnxwg",
                 "id": 176084390,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-18T06:58:04Z",
+                "open_issues": 23,
                 "owner": "singhkshitij",
                 "repo": "My-Landing-Page",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "landing-page",
+                  "onepage",
+                  "portfolio",
+                  "portfolio-page",
+                  "portfolio-site",
+                  "portfolio-website",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -492,12 +889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FREE Bootstrap 5 Landing Page Template for Developers and Startups",
+                "homepage": "http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/",
                 "id": 49254938,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-09-17T12:52:09Z",
+                "open_issues": 2,
                 "owner": "xriley",
                 "repo": "AppKit-Landing-Theme",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -508,12 +910,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic GatsbyJS App Landing Page - Automatically generate iOS app landing page using GatsbyJS",
+                "homepage": "https://agalp.netlify.com/",
                 "id": 177028530,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T18:22:10Z",
+                "open_issues": 30,
                 "owner": "imedadel",
                 "repo": "automatic-gatsbyjs-app-landing-page",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "app",
+                  "automatic",
+                  "boilerplate",
+                  "gatsby-starter",
+                  "gatsbyjs",
+                  "generator",
+                  "ios",
+                  "landing-page",
+                  "showcase",
+                  "starter",
+                  "startup",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -524,12 +944,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Bootstrap HTML homepage template with feature boxes - created by Start Bootstrap",
+                "homepage": "https://startbootstrap.com/templates/heroic-features/",
                 "id": 25714467,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-16T19:05:28Z",
+                "open_issues": 4,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-heroic-features",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-4",
+                  "bootstrap-5",
+                  "bootstrap-5-template",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5",
+                  "bootstrap5-template",
+                  "css",
+                  "free",
+                  "html",
+                  "open-source",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -540,12 +980,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼 A pure client-side landing page template that you can fork, customize and host freely. Relies on Mailchimp and Google Analytics.",
+                "homepage": "http://landing.adrienjoly.com/",
                 "id": 45332945,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-03-09T18:07:50Z",
+                "open_issues": 3,
                 "owner": "adrienjoly",
                 "repo": "landing-page-boilerplate",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "css",
+                  "google-analytics",
+                  "html",
+                  "landing-page-boilerplate",
+                  "mailchimp",
+                  "static-site"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -556,12 +1008,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Github Pages template for nonprofits seeking a starter website. Includes online donations and newsletter signup.",
+                "homepage": null,
                 "id": 45469861,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-03-18T15:52:40Z",
+                "open_issues": 0,
                 "owner": "smartergiving",
                 "repo": "free-nonprofit-starter-website",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "jekyll-website",
+                  "nonprofits",
+                  "online-donations"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -572,12 +1033,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JayantGoel001's Personal Portfolio with 120 stars ⭐ and 50 forks 🎉.",
+                "homepage": "https://JayantGoel001.github.io",
                 "id": 328273518,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-05-09T18:22:50Z",
+                "open_issues": 16,
                 "owner": "JayantGoel001",
                 "repo": "JayantGoel001.github.io",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "angular",
+                  "css",
+                  "docker",
+                  "font-awesome",
+                  "html",
+                  "javascript",
+                  "jayantgoel",
+                  "jayantgoel001",
+                  "live2dwidget-js",
+                  "portfolio",
+                  "portfolio-website",
+                  "pwa",
+                  "quotable",
+                  "seo",
+                  "svgbackgrounds",
+                  "typescript",
+                  "vanilla-tilt-js",
+                  "web-develop",
+                  "webp",
+                  "wow-js"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -588,12 +1075,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 Personal landing page template",
+                "homepage": "https://mylandingpage.vercel.app",
                 "id": 304094562,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-21T10:13:11Z",
+                "open_issues": 0,
                 "owner": "madzadev",
                 "repo": "landing-page",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "css",
+                  "html",
+                  "landing-page"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -604,12 +1100,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒",
+                "homepage": null,
                 "id": 113974670,
                 "language": "HTML",
+                "license": "CC0-1.0",
                 "last_commit": "2023-01-11T08:40:03Z",
+                "open_issues": 1,
                 "owner": "akashgiricse",
                 "repo": "templates-using-bootstrap4",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "bootstrap4",
+                  "contact-form",
+                  "contact-information",
+                  "contacts",
+                  "footer",
+                  "footer-template",
+                  "footers",
+                  "frontend-components",
+                  "gallery-template",
+                  "login-page",
+                  "photo-gallery",
+                  "pricing-table",
+                  "signup",
+                  "signup-form",
+                  "signup-page",
+                  "signup-template",
+                  "signup-ui",
+                  "sitemap",
+                  "templates",
+                  "thankyou"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -620,12 +1142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AngularJS SPA Template for Visual Studio is a project skeleton for a simple single-page web application (SPA) built with AngularJS, Bootstrap, and ASP.NET (MVC, Web Api, SignalR).",
+                "homepage": "http://tarkus.me/post/32121691785",
                 "id": 14075871,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-11T17:23:25Z",
+                "open_issues": 12,
                 "owner": "kriasoft",
                 "repo": "AngularJS-SPA-Template",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -636,12 +1163,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Yevgeniy Brikman Home Page",
+                "homepage": "http://www.ybrikman.com",
                 "id": 33806754,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-05T13:04:41Z",
+                "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "github-page",
+                  "homepage",
+                  "jekyll"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -652,12 +1188,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful technology product website",
+                "homepage": "https://wonderfullandingpage.github.io/Technology-LandingPage/",
                 "id": 353281249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-01T06:29:03Z",
+                "open_issues": 0,
                 "owner": "wonderfullandingpage",
                 "repo": "Technology-LandingPage",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "landing-page",
+                  "landingpage"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -668,12 +1212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micua home page",
+                "homepage": "http://www.micua.com/Home",
                 "id": 44095996,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-04-26T03:05:59Z",
+                "open_issues": 1,
                 "owner": "micua",
                 "repo": "home",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -684,12 +1233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "home page of peter",
+                "homepage": "https://happypeter.github.io",
                 "id": 605042,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-07-16T14:15:45Z",
+                "open_issues": 0,
                 "owner": "happypeter",
                 "repo": "happypeter.github.com",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -700,12 +1254,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Simple and beautiful Landing Page Template",
+                "homepage": "https://nordicgiant2.github.io/snlp-page/",
                 "id": 227346865,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T13:37:03Z",
+                "open_issues": 14,
                 "owner": "nordicgiant2",
                 "repo": "sn-landing-page",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "gh-pages",
+                  "landing-page",
+                  "landingpage",
+                  "react-landing-page",
+                  "react-page"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -716,12 +1281,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful vue.js homepage template, very useful",
+                "homepage": "https://nordicgiant2.github.io/vue-nice-homepage-page/",
                 "id": 226782147,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-03-20T02:06:04Z",
+                "open_issues": 0,
                 "owner": "nordicgiant2",
                 "repo": "vue-nice-homepage",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "gh-pages",
+                  "homepage",
+                  "hompage-template",
+                  "resume-template",
+                  "vue-pages",
+                  "vue-resume",
+                  "vuepress"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -732,12 +1310,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful personal resume developed based on react",
+                "homepage": "https://wonderfullandingpage.github.io/react-exquisite-resume/",
                 "id": 353964103,
                 "language": "SCSS",
+                "license": null,
                 "last_commit": "2021-04-16T02:56:45Z",
+                "open_issues": 0,
                 "owner": "wonderfullandingpage",
                 "repo": "react-exquisite-resume",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "react-resume",
+                  "react-resume-builder",
+                  "resume-template"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -748,12 +1335,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A personalized material-ui landingpage template",
+                "homepage": "https://nordicgiant2.github.io/cool-landing-page/",
                 "id": 228531436,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-12-17T05:34:00Z",
+                "open_issues": 0,
                 "owner": "nordicgiant2",
                 "repo": "cool-landing",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "gh-page",
+                  "gh-pages",
+                  "github-pages",
+                  "landing-page",
+                  "landingpage",
+                  "page-themes",
+                  "react-pages"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -764,12 +1364,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very beautiful github pages theme template",
+                "homepage": "https://nordicgiant2.github.io/gh-pages-theme-page/",
                 "id": 228277796,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-19T11:40:33Z",
+                "open_issues": 0,
                 "owner": "nordicgiant2",
                 "repo": "gh-pages-theme",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "gh-pages",
+                  "gh-pages-theme",
+                  "github-page",
+                  "github-pages",
+                  "react-pages"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -780,12 +1391,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "coala Landing Page - https://gitlab.com/coala/landing is needed as backend",
+                "homepage": "https://coala.io/",
                 "id": 79438710,
                 "language": "HTML",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-01-15T07:08:20Z",
+                "open_issues": 61,
                 "owner": "coala",
                 "repo": "landing-frontend",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "coala",
+                  "lint",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -796,12 +1416,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gradient landing page for gradient enthusiast",
+                "homepage": "https://doni-gradient-landing.netlify.app/",
                 "id": 387680709,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-05-13T08:39:48Z",
+                "open_issues": 1,
                 "owner": "doniwirawan",
                 "repo": "doniwirawan.github.io",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cyberpunk",
+                  "gradient",
+                  "landingpage",
+                  "landingpage-bootstrap",
+                  "personal",
+                  "portfolio"
+                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -812,12 +1444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Personal Portfolio and Online Resume",
+                "homepage": "https://ahmedhamodi.com",
                 "id": 67325479,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-12T02:03:04Z",
+                "open_issues": 5,
                 "owner": "ahmedhamodi",
                 "repo": "ahmedhamodi.github.io",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -828,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 348809171,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-04-03T01:36:12Z",
+                "open_issues": 1,
                 "owner": "divyu135",
                 "repo": "moodify-playlist",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -844,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 375769671,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-06-26T17:07:27Z",
+                "open_issues": 0,
                 "owner": "caarlosdamian",
                 "repo": "react-website-portafolio",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             }
@@ -863,15 +1510,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:05:31.481Z",
+    "last_updated": "2026-08-29T04:17:47.974Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A series of beautiful and practical landing page templates",
+      "homepage": null,
       "id": 282611558,
       "language": null,
+      "license": null,
       "last_commit": "2022-01-02T03:44:33Z",
+      "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3816
+      "stars": 3816,
+      "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
     "enhanced_repository": "enhansome/enhansome-landing-page",
