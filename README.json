@@ -141,7 +141,7 @@
                 "open_issues": 25,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "css",
                   "html",
@@ -165,11 +165,11 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-26T13:07:58Z",
+                "last_commit": "2026-08-30T05:54:13Z",
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1685,
+                "stars": 1684,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -501,7 +501,7 @@
                 "open_issues": 4,
                 "owner": "joashp",
                 "repo": "material-design-template",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "html-template",
                   "material",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:14:06.145Z",
+    "last_updated": "2026-08-30T17:37:37.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",

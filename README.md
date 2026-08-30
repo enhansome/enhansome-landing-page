@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,075 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,379 | 🐛 105 | 📅 2026-08-21
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -18,9 +18,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,293 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
-* <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 25 | 🌐 HTML | 📅 2026-08-27
+* <https://github.com/jglovier/resume-template> ⭐ 1,972 | 🐛 25 | 🌐 HTML | 📅 2026-08-27
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,685 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-26
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,684 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-30
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,671 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -42,7 +42,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/Esri/esri.github.io> ⭐ 630 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
-* <https://github.com/joashp/material-design-template> ⭐ 594 | 🐛 4 | 🌐 JavaScript | 📅 2021-10-18
+* <https://github.com/joashp/material-design-template> ⭐ 595 | 🐛 4 | 🌐 JavaScript | 📅 2021-10-18
 
 * <https://github.com/omegasisters/homepage> ⭐ 578 | 🐛 37 | 🌐 HTML | 📅 2024-10-29
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
