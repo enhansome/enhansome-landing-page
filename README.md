@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,310 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,634 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,15 +12,15 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,960 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,527 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,526 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
-* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,301 | 🐛 10 | 🌐 HTML | 📅 2024-06-15
+* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,303 | 🐛 10 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,293 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,972 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,685 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-30
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,686 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-03
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,672 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -28,7 +28,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,383 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,365 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,367 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,346 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
@@ -42,7 +42,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/Esri/esri.github.io> ⭐ 630 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
-* <https://github.com/joashp/material-design-template> ⭐ 595 | 🐛 4 | 🌐 JavaScript | 📅 2021-10-18
+* <https://github.com/joashp/material-design-template> ⭐ 592 | 🐛 4 | 🌐 JavaScript | 📅 2021-10-18
 
 * <https://github.com/omegasisters/homepage> ⭐ 578 | 🐛 37 | 🌐 HTML | 📅 2024-10-29
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
