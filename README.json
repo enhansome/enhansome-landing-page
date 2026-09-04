@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6526,
+                "stars": 6525,
                 "topics": [
                   "design",
                   "editor",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1972,
+                "stars": 1970,
                 "topics": [
                   "css",
                   "html",
@@ -169,7 +169,7 @@
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1686,
+                "stars": 1688,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1367,
+                "stars": 1370,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:04:34.936Z",
+    "last_updated": "2026-09-04T16:53:35.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
