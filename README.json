@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6960,
+                "stars": 6959,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6525,
+                "stars": 6527,
                 "topics": [
                   "design",
                   "editor",
@@ -85,7 +85,7 @@
                 "open_issues": 10,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2303,
+                "stars": 2304,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -120,7 +120,7 @@
                 "open_issues": 45,
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
-                "stars": 2293,
+                "stars": 2294,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1970,
+                "stars": 1969,
                 "topics": [
                   "css",
                   "html",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -634,7 +634,7 @@
                 "open_issues": 6,
                 "owner": "swcool",
                 "repo": "landing-page-theme",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:53:35.737Z",
+    "last_updated": "2026-09-05T16:07:58.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3819,
+      "stars": 3820,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
