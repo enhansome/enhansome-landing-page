@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,551 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,924 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,17 +10,17 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,958 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,957 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
 * <https://github.com/ant-design/ant-design-landing> ⭐ 6,526 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
-* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,304 | 🐛 10 | 🌐 HTML | 📅 2024-06-15
+* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,307 | 🐛 10 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,294 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,969 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,688 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-03
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,689 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-03
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,673 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -28,7 +28,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,383 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,370 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,371 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,346 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
@@ -88,7 +88,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/kriasoft/AngularJS-SPA-Template> ⭐ 103 | 🐛 12 | 🌐 CSS | 📅 2017-05-11
 
-* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 90 | 🐛 11 | 🌐 Ruby | 📅 2026-08-05
+* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 90 | 🐛 11 | 🌐 Ruby | 📅 2026-09-07
 
 * <https://github.com/wonderfullandingpage/Technology-LandingPage> ⭐ 83 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-01
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
