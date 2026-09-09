@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1969,
+                "stars": 1970,
                 "topics": [
                   "css",
                   "html",
@@ -277,7 +277,7 @@
                 "open_issues": 19,
                 "owner": "dennybritz",
                 "repo": "neal-react",
-                "stars": 1383,
+                "stars": 1382,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -1017,7 +1017,7 @@
                 "open_issues": 0,
                 "owner": "smartergiving",
                 "repo": "free-nonprofit-starter-website",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "jekyll-website",
                   "nonprofits",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:17:18.730Z",
+    "last_updated": "2026-09-09T17:11:14.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3820,
+      "stars": 3819,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
