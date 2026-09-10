@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:16:23Z",
+                "last_commit": "2026-09-09T23:26:46Z",
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 938,
+                "stars": 939,
                 "topics": [
                   "android",
                   "darkmode",
@@ -847,7 +847,7 @@
                 "open_issues": 5,
                 "owner": "ITRav4",
                 "repo": "PlexRedirect",
-                "stars": 234,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:11:14.134Z",
+    "last_updated": "2026-09-10T17:02:22.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3819,
+      "stars": 3818,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
