@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,088 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,367 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,9 +10,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,955 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,954 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,525 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,526 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,306 | 🐛 10 | 🌐 HTML | 📅 2024-06-15
 
@@ -20,7 +20,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,970 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,689 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-10
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,689 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-12
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,673 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -34,7 +34,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,153 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
-* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 939 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
+* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 940 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
 * <https://github.com/nordicgiant2/react-nice-resume> ⭐ 685 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-16
 
@@ -64,7 +64,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/website-templates/portfolio_one-page-template> ⭐ 261 | 🐛 3 | 🌐 HTML | 📅 2024-05-11
 
-* <https://github.com/StartBootstrap/startbootstrap-business-frontpage> ⭐ 248 | 🐛 3 | 🌐 Pug | 📅 2023-05-24
+* <https://github.com/StartBootstrap/startbootstrap-business-frontpage> ⭐ 247 | 🐛 3 | 🌐 Pug | 📅 2023-05-24
 
 * <https://github.com/ITRav4/PlexRedirect> ⭐ 233 | 🐛 5 | 🌐 HTML | 📅 2017-01-23
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
