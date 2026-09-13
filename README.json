@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6526,
+                "stars": 6525,
                 "topics": [
                   "design",
                   "editor",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1970,
+                "stars": 1969,
                 "topics": [
                   "css",
                   "html",
@@ -169,7 +169,7 @@
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1689,
+                "stars": 1690,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1373,
+                "stars": 1374,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -498,7 +498,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2021-10-18T08:01:20Z",
-                "open_issues": 4,
+                "open_issues": 9,
                 "owner": "joashp",
                 "repo": "material-design-template",
                 "stars": 592,
@@ -527,7 +527,7 @@
                 "open_issues": 37,
                 "owner": "omegasisters",
                 "repo": "homepage",
-                "stars": 578,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:23:00.138Z",
+    "last_updated": "2026-09-13T16:59:01.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
