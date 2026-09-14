@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6954,
+                "stars": 6955,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -85,7 +85,7 @@
                 "open_issues": 10,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2306,
+                "stars": 2307,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1969,
+                "stars": 1970,
                 "topics": [
                   "css",
                   "html",
@@ -501,7 +501,7 @@
                 "open_issues": 9,
                 "owner": "joashp",
                 "repo": "material-design-template",
-                "stars": 592,
+                "stars": 591,
                 "topics": [
                   "html-template",
                   "material",
@@ -548,7 +548,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 539,
+                "stars": 538,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1197,7 +1197,7 @@
                 "open_issues": 0,
                 "owner": "wonderfullandingpage",
                 "repo": "Technology-LandingPage",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "landing-page",
                   "landingpage"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:59:01.872Z",
+    "last_updated": "2026-09-14T18:43:18.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
