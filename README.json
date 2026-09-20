@@ -82,7 +82,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2024-06-15T21:41:58Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
                 "stars": 2309,
@@ -169,7 +169,7 @@
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1375,
+                "stars": 1374,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:34:19.103Z",
+    "last_updated": "2026-09-20T16:52:41.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3816,
+      "stars": 3815,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
