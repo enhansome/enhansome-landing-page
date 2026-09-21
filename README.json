@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6956,
+                "stars": 6957,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2309,
+                "stars": 2310,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -166,7 +166,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T20:06:01Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
                 "stars": 1692,
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1673,
+                "stars": 1674,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1374,
+                "stars": 1373,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "android",
                   "darkmode",
@@ -1070,31 +1070,6 @@
             },
             {
               "node_type": "item",
-              "title": "madzadev/landing-page",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🎉 Personal landing page template",
-                "homepage": "https://mylandingpage.vercel.app",
-                "id": 304094562,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2024-08-21T10:13:11Z",
-                "open_issues": 0,
-                "owner": "madzadev",
-                "repo": "landing-page",
-                "stars": 119,
-                "topics": [
-                  "css",
-                  "html",
-                  "landing-page"
-                ]
-              },
-              "first_seen": "2026-08-28T23:05:31.481Z"
-            },
-            {
-              "node_type": "item",
               "title": "akashgiricse/templates-using-bootstrap4",
               "description": null,
               "children": [],
@@ -1131,6 +1106,31 @@
                   "sitemap",
                   "templates",
                   "thankyou"
+                ]
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
+            },
+            {
+              "node_type": "item",
+              "title": "madzadev/landing-page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🎉 Personal landing page template",
+                "homepage": "https://mylandingpage.vercel.app",
+                "id": 304094562,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2024-08-21T10:13:11Z",
+                "open_issues": 0,
+                "owner": "madzadev",
+                "repo": "landing-page",
+                "stars": 118,
+                "topics": [
+                  "css",
+                  "html",
+                  "landing-page"
                 ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:52:41.961Z",
+    "last_updated": "2026-09-21T18:47:48.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3815,
+      "stars": 3816,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
