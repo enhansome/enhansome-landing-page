@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6957,
+                "stars": 6958,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1972,
+                "stars": 1971,
                 "topics": [
                   "css",
                   "html",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1374,
+                "stars": 1375,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -1033,7 +1033,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "JayantGoel001's Personal Portfolio with 120 stars ⭐ and 50 forks 🎉.",
+                "description": "JayantGoel001's Personal Portfolio with 120 stars ⭐ and 51 forks 🎉.",
                 "homepage": "https://JayantGoel001.github.io",
                 "id": 328273518,
                 "language": "HTML",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:40:07.254Z",
+    "last_updated": "2026-09-23T17:52:48.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3816,
+      "stars": 3815,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
