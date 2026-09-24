@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,338 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,843 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,13 +12,13 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,958 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,529 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,528 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,311 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
-* <https://github.com/carlsednaoui/ouibounce> ⭐ 2,294 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
+* <https://github.com/carlsednaoui/ouibounce> ⭐ 2,295 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
-* <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
+* <https://github.com/jglovier/resume-template> ⭐ 1,972 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
 * <https://github.com/Blazity/next-saas-starter> ⭐ 1,693 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-18
 
@@ -28,7 +28,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,382 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,375 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,376 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,347 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
@@ -74,7 +74,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page> ⭐ 195 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03
 
-* <https://github.com/StartBootstrap/startbootstrap-heroic-features> ⭐ 178 | 🐛 4 | 🌐 JavaScript | 📅 2023-08-16
+* <https://github.com/StartBootstrap/startbootstrap-heroic-features> ⭐ 177 | 🐛 4 | 🌐 JavaScript | 📅 2023-08-16
 
 * <https://github.com/adrienjoly/landing-page-boilerplate> ⭐ 155 | 🐛 3 | 🌐 HTML | 📅 2022-03-09
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

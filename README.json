@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6529,
+                "stars": 6528,
                 "topics": [
                   "design",
                   "editor",
@@ -120,7 +120,7 @@
                 "open_issues": 45,
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
-                "stars": 2294,
+                "stars": 2295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "css",
                   "html",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1375,
+                "stars": 1376,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -953,7 +953,7 @@
                 "open_issues": 4,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-heroic-features",
-                "stars": 178,
+                "stars": 177,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:52:48.754Z",
+    "last_updated": "2026-09-24T17:52:56.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
