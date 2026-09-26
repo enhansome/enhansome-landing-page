@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6958,
+                "stars": 6959,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T22:04:15Z",
+                "last_commit": "2026-09-26T02:11:43Z",
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -248,7 +248,7 @@
                 "open_issues": 18,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1452,
+                "stars": 1451,
                 "topics": [
                   "html",
                   "landing-page",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1376,
+                "stars": 1377,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 630,
+                "stars": 629,
                 "topics": [
                   "css",
                   "github",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:59:17.594Z",
+    "last_updated": "2026-09-26T17:16:57.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
