@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6528,
+                "stars": 6527,
                 "topics": [
                   "design",
                   "editor",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1972,
+                "stars": 1971,
                 "topics": [
                   "css",
                   "html",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1377,
+                "stars": 1379,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "android",
                   "darkmode",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:16:57.422Z",
+    "last_updated": "2026-09-27T17:49:36.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
