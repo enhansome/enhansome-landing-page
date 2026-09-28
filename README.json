@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6527,
+                "stars": 6528,
                 "topics": [
                   "design",
                   "editor",
@@ -263,6 +263,30 @@
             },
             {
               "node_type": "item",
+              "title": "SimonAKing/HomePage",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions",
+                "homepage": "https://simonaking.com",
+                "id": 293678729,
+                "language": "JavaScript",
+                "license": "LGPL-3.0",
+                "last_commit": "2025-10-01T10:16:40Z",
+                "open_issues": 0,
+                "owner": "SimonAKing",
+                "repo": "HomePage",
+                "stars": 1383,
+                "topics": [
+                  "homepage",
+                  "personal-website"
+                ]
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
+            },
+            {
+              "node_type": "item",
               "title": "dennybritz/neal-react",
               "description": null,
               "children": [],
@@ -279,30 +303,6 @@
                 "repo": "neal-react",
                 "stars": 1381,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:05:31.481Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SimonAKing/HomePage",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions",
-                "homepage": "https://simonaking.com",
-                "id": 293678729,
-                "language": "JavaScript",
-                "license": "LGPL-3.0",
-                "last_commit": "2025-10-01T10:16:40Z",
-                "open_issues": 0,
-                "owner": "SimonAKing",
-                "repo": "HomePage",
-                "stars": 1379,
-                "topics": [
-                  "homepage",
-                  "personal-website"
-                ]
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -548,7 +548,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:49:36.891Z",
+    "last_updated": "2026-09-28T20:09:28.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
