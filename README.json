@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6528,
+                "stars": 6530,
                 "topics": [
                   "design",
                   "editor",
@@ -322,7 +322,7 @@
                 "open_issues": 4,
                 "owner": "flexdinesh",
                 "repo": "dev-landing-page",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": [
                   "boilerplate",
                   "developer",
@@ -884,27 +884,6 @@
             },
             {
               "node_type": "item",
-              "title": "xriley/AppKit-Landing-Theme",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "FREE Bootstrap 5 Landing Page Template for Developers and Startups",
-                "homepage": "http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/",
-                "id": 49254938,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2024-09-17T12:52:09Z",
-                "open_issues": 2,
-                "owner": "xriley",
-                "repo": "AppKit-Landing-Theme",
-                "stars": 196,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:05:31.481Z"
-            },
-            {
-              "node_type": "item",
               "title": "imedadel/automatic-gatsbyjs-app-landing-page",
               "description": null,
               "children": [],
@@ -934,6 +913,27 @@
                   "startup",
                   "template"
                 ]
+              },
+              "first_seen": "2026-08-28T23:05:31.481Z"
+            },
+            {
+              "node_type": "item",
+              "title": "xriley/AppKit-Landing-Theme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FREE Bootstrap 5 Landing Page Template for Developers and Startups",
+                "homepage": "http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/",
+                "id": 49254938,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2024-09-17T12:52:09Z",
+                "open_issues": 2,
+                "owner": "xriley",
+                "repo": "AppKit-Landing-Theme",
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
             },
@@ -1400,7 +1400,7 @@
                 "open_issues": 61,
                 "owner": "coala",
                 "repo": "landing-frontend",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "coala",
                   "lint",
@@ -1425,7 +1425,7 @@
                 "open_issues": 1,
                 "owner": "doniwirawan",
                 "repo": "doniwirawan.github.io",
-                "stars": 20,
+                "stars": 19,
                 "topics": [
                   "cyberpunk",
                   "gradient",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:09:28.500Z",
+    "last_updated": "2026-09-29T18:42:09.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3814,
+      "stars": 3815,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",

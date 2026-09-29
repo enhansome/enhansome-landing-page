@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,942 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,364 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,7 +12,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,528 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,530 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,311 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
@@ -30,7 +30,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,381 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,347 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
+* <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,348 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
 * <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,153 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
@@ -70,9 +70,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/singhkshitij/My-Landing-Page> ⭐ 208 | 🐛 23 | 🌐 JavaScript | 📅 2024-02-18
 
-* <https://github.com/xriley/AppKit-Landing-Theme> ⭐ 196 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-17
-
 * <https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page> ⭐ 195 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03
+
+* <https://github.com/xriley/AppKit-Landing-Theme> ⭐ 195 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-17
 
 * <https://github.com/StartBootstrap/startbootstrap-heroic-features> ⭐ 177 | 🐛 4 | 🌐 JavaScript | 📅 2023-08-16
 
@@ -106,9 +106,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/nordicgiant2/gh-pages-theme> ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-19
 
-* <https://github.com/coala/landing-frontend> ⭐ 32 | 🐛 61 | 🌐 HTML | 📅 2019-01-15
+* <https://github.com/coala/landing-frontend> ⭐ 33 | 🐛 61 | 🌐 HTML | 📅 2019-01-15
 
-* <https://github.com/doniwirawan/Gradient-Landing-Page/> ⭐ 20 | 🐛 1 | 🌐 HTML | 📅 2025-05-13
+* <https://github.com/doniwirawan/Gradient-Landing-Page/> ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2025-05-13
 
 * <https://github.com/ahmedhamodi/ahmedhamodi.github.io> ⭐ 10 | 🐛 5 | 🌐 JavaScript | 📅 2023-11-12
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
