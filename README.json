@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6530,
+                "stars": 6529,
                 "topics": [
                   "design",
                   "editor",
@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2311,
+                "stars": 2310,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -248,7 +248,7 @@
                 "open_issues": 18,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1451,
+                "stars": 1452,
                 "topics": [
                   "html",
                   "landing-page",
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "css",
                   "github",
@@ -1084,7 +1084,7 @@
                 "open_issues": 1,
                 "owner": "akashgiricse",
                 "repo": "templates-using-bootstrap4",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "bootstrap4",
                   "contact-form",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:42:09.768Z",
+    "last_updated": "2026-09-30T18:28:42.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",

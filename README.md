@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,364 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,800 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,9 +12,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,530 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,529 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
-* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,311 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
+* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,310 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,295 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
@@ -24,7 +24,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,674 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
-* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,451 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
+* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,452 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
 
 * <https://github.com/Tomotoes/HomePage> ⭐ 1,383 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
@@ -40,7 +40,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/cssninjaStudio/fresh> ⭐ 670 | 🐛 8 | 🌐 SCSS | 📅 2024-04-27
 
-* <https://github.com/Esri/esri.github.io> ⭐ 629 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
+* <https://github.com/Esri/esri.github.io> ⭐ 630 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
 * <https://github.com/joashp/material-design-template> ⭐ 591 | 🐛 9 | 🌐 JavaScript | 📅 2021-10-18
 
@@ -82,7 +82,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/JayantGoel001/JayantGoel001.github.io/> ⭐ 120 | 🐛 16 | 🌐 HTML | 📅 2026-05-09
 
-* <https://github.com/akashgiricse/templates-using-bootstrap4> ⭐ 118 | 🐛 1 | 🌐 HTML | 📅 2023-01-11
+* <https://github.com/akashgiricse/templates-using-bootstrap4> ⭐ 119 | 🐛 1 | 🌐 HTML | 📅 2023-01-11
 
 * <https://github.com/madzadev/landing-page> ⭐ 118 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-21
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
