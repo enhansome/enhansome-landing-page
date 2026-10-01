@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T02:11:43Z",
+                "last_commit": "2026-10-01T04:51:52Z",
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1383,
+                "stars": 1382,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -441,7 +441,7 @@
                 "id": 117474984,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2024-04-27T22:49:17Z",
+                "last_commit": "2026-09-30T21:13:57Z",
                 "open_issues": 8,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:28:42.613Z",
+    "last_updated": "2026-10-01T18:56:19.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
