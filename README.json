@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6959,
+                "stars": 6958,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -169,7 +169,7 @@
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1693,
+                "stars": 1694,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1674,
+                "stars": 1672,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -274,7 +274,7 @@
                 "language": "JavaScript",
                 "license": "LGPL-3.0",
                 "last_commit": "2025-10-01T10:16:40Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
                 "stars": 1382,
@@ -348,7 +348,7 @@
                 "open_issues": 7,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-new-age",
-                "stars": 1153,
+                "stars": 1151,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 941,
+                "stars": 940,
                 "topics": [
                   "android",
                   "darkmode",
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "css",
                   "github",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:56:19.185Z",
+    "last_updated": "2026-10-02T18:32:13.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
