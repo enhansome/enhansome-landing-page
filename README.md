@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,645 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -36,11 +36,11 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 940 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
-* <https://github.com/nordicgiant2/react-nice-resume> ⭐ 685 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-16
+* <https://github.com/nordicgiant2/react-nice-resume> ⭐ 684 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-16
 
 * <https://github.com/cssninjaStudio/fresh> ⭐ 670 | 🐛 8 | 🌐 SCSS | 📅 2026-09-30
 
-* <https://github.com/Esri/esri.github.io> ⭐ 631 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
+* <https://github.com/Esri/esri.github.io> ⭐ 630 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
 * <https://github.com/joashp/material-design-template> ⭐ 591 | 🐛 9 | 🌐 JavaScript | 📅 2021-10-18
 
@@ -82,7 +82,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/JayantGoel001/JayantGoel001.github.io/> ⭐ 120 | 🐛 16 | 🌐 HTML | 📅 2026-05-09
 
-* <https://github.com/akashgiricse/templates-using-bootstrap4> ⭐ 119 | 🐛 1 | 🌐 HTML | 📅 2023-01-11
+* <https://github.com/akashgiricse/templates-using-bootstrap4> ⭐ 118 | 🐛 1 | 🌐 HTML | 📅 2023-01-11
 
 * <https://github.com/madzadev/landing-page> ⭐ 118 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-21
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
