@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,025 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,591 | 🐛 107 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -20,11 +20,11 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,695 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-01
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,695 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-04
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,672 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
-* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,452 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
+* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,453 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
 
 * <https://github.com/Tomotoes/HomePage> ⭐ 1,383 | 🐛 1 | 🌐 JavaScript | 📅 2025-10-01
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

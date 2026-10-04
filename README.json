@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T04:51:52Z",
+                "last_commit": "2026-10-04T00:34:01Z",
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -248,7 +248,7 @@
                 "open_issues": 18,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1452,
+                "stars": 1453,
                 "topics": [
                   "html",
                   "landing-page",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:27:18.141Z",
+    "last_updated": "2026-10-04T17:41:09.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
