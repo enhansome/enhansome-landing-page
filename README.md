@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,121 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,364 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -20,13 +20,13 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,693 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-05
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,694 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-05
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,672 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
 * <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,453 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,383 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,385 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,381 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
@@ -70,9 +70,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/singhkshitij/My-Landing-Page> ⭐ 208 | 🐛 23 | 🌐 JavaScript | 📅 2024-02-18
 
-* <https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page> ⭐ 195 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03
+* <https://github.com/xriley/AppKit-Landing-Theme> ⭐ 196 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-17
 
-* <https://github.com/xriley/AppKit-Landing-Theme> ⭐ 195 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-17
+* <https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page> ⭐ 195 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03
 
 * <https://github.com/StartBootstrap/startbootstrap-heroic-features> ⭐ 177 | 🐛 4 | 🌐 JavaScript | 📅 2023-08-16
 
@@ -108,7 +108,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/coala/landing-frontend> ⭐ 33 | 🐛 61 | 🌐 HTML | 📅 2019-01-15
 
-* <https://github.com/doniwirawan/Gradient-Landing-Page/> ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2025-05-13
+* <https://github.com/doniwirawan/Gradient-Landing-Page/> ⭐ 20 | 🐛 1 | 🌐 HTML | 📅 2025-05-13
 
 * <https://github.com/ahmedhamodi/ahmedhamodi.github.io> ⭐ 10 | 🐛 5 | 🌐 JavaScript | 📅 2023-11-12
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
