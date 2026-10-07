@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6529,
+                "stars": 6526,
                 "topics": [
                   "design",
                   "editor",
@@ -169,7 +169,7 @@
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1672,
+                "stars": 1671,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "css",
                   "github",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:56:47.747Z",
+    "last_updated": "2026-10-07T19:23:57.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3815,
+      "stars": 3816,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
