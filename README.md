@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,018 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,268 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,7 +10,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,958 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
 * <https://github.com/ant-design/ant-design-landing> ⭐ 6,526 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
@@ -20,7 +20,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,695 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-05
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,696 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-05
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,671 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -32,9 +32,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,348 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
-* <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,150 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
+* <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,151 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
-* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 940 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
+* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 941 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
 * <https://github.com/nordicgiant2/react-nice-resume> ⭐ 684 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-16
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6958,
+                "stars": 6959,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -169,7 +169,7 @@
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -348,7 +348,7 @@
                 "open_issues": 7,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-new-age",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "android",
                   "darkmode",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:23:57.866Z",
+    "last_updated": "2026-10-08T19:19:30.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3816,
+      "stars": 3815,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
