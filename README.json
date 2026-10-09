@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6526,
+                "stars": 6522,
                 "topics": [
                   "design",
                   "editor",
@@ -169,7 +169,7 @@
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 941,
+                "stars": 940,
                 "topics": [
                   "android",
                   "darkmode",
@@ -419,7 +419,7 @@
                 "open_issues": 19,
                 "owner": "nordicgiant2",
                 "repo": "react-nice-resume",
-                "stars": 684,
+                "stars": 685,
                 "topics": [
                   "react",
                   "react-resume",
@@ -445,7 +445,7 @@
                 "open_issues": 8,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
-                "stars": 670,
+                "stars": 672,
                 "topics": [
                   "alpinejs",
                   "astro",
@@ -751,7 +751,7 @@
                 "open_issues": 4,
                 "owner": "wonderfullandingpage",
                 "repo": "mylandingpage",
-                "stars": 267,
+                "stars": 265,
                 "topics": [
                   "landing",
                   "landing-page",
@@ -1263,7 +1263,7 @@
                 "open_issues": 14,
                 "owner": "nordicgiant2",
                 "repo": "sn-landing-page",
-                "stars": 63,
+                "stars": 61,
                 "topics": [
                   "gh-pages",
                   "landing-page",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:19:30.829Z",
+    "last_updated": "2026-10-09T18:52:22.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3815,
+      "stars": 3816,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
