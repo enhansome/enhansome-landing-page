@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,694 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,147 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -12,7 +12,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,522 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,523 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,310 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
@@ -22,7 +22,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/Blazity/next-saas-starter> ⭐ 1,697 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-05
 
-* <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,671 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
+* <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,670 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
 * <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,453 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
 
@@ -48,7 +48,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/Jaredk3nt/homepage> ⭐ 539 | 🐛 3 | 🌐 HTML | 📅 2024-07-22
 
-* <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 532 | 🐛 0 | 📅 2022-02-22
+* <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 533 | 🐛 0 | 📅 2022-02-22
 
 * <https://github.com/StartBootstrap/startbootstrap-shop-homepage> ⭐ 493 | 🐛 6 | 🌐 Pug | 📅 2023-10-30
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

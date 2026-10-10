@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6522,
+                "stars": 6523,
                 "topics": [
                   "design",
                   "editor",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1671,
+                "stars": 1670,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -574,7 +574,7 @@
                 "open_issues": 0,
                 "owner": "byoungd",
                 "repo": "Resume-template-for-Coder",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "resume-template"
                 ]
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:52:22.666Z",
+    "last_updated": "2026-10-10T17:54:30.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
