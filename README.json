@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "css",
                   "html",
@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T15:02:34Z",
+                "last_commit": "2026-10-11T12:56:33Z",
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -248,7 +248,7 @@
                 "open_issues": 18,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1453,
+                "stars": 1452,
                 "topics": [
                   "html",
                   "landing-page",
@@ -777,7 +777,7 @@
                 "open_issues": 3,
                 "owner": "website-templates",
                 "repo": "portfolio_one-page-template",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "css3",
                   "gulp",
@@ -1168,8 +1168,8 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-07T11:08:27Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-11T17:16:26Z",
+                "open_issues": 12,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
                 "stars": 89,
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:54:30.519Z",
+    "last_updated": "2026-10-11T18:10:47.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3816,
+      "stars": 3815,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",

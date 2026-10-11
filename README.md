@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,147 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,596 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -18,13 +18,13 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,295 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
-* <https://github.com/jglovier/resume-template> ⭐ 1,971 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
+* <https://github.com/jglovier/resume-template> ⭐ 1,972 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,697 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-05
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,697 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-11
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,670 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
-* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,453 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
+* <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,452 | 🐛 18 | 🌐 HTML | 📅 2024-04-25
 
 * <https://github.com/Tomotoes/HomePage> ⭐ 1,384 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
@@ -62,7 +62,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/wonderfullandingpage/mylandingpage> ⭐ 265 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-18
 
-* <https://github.com/website-templates/portfolio_one-page-template> ⭐ 262 | 🐛 3 | 🌐 HTML | 📅 2024-05-11
+* <https://github.com/website-templates/portfolio_one-page-template> ⭐ 263 | 🐛 3 | 🌐 HTML | 📅 2024-05-11
 
 * <https://github.com/StartBootstrap/startbootstrap-business-frontpage> ⭐ 247 | 🐛 3 | 🌐 Pug | 📅 2023-05-24
 
@@ -88,7 +88,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/kriasoft/AngularJS-SPA-Template> ⭐ 103 | 🐛 12 | 🌐 CSS | 📅 2017-05-11
 
-* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-09-07
+* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 12 | 🌐 Ruby | 📅 2026-10-11
 
 * <https://github.com/wonderfullandingpage/Technology-LandingPage> ⭐ 84 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-01
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
