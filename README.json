@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2311,
+                "stars": 2310,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -165,11 +165,11 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:14:02Z",
+                "last_commit": "2026-10-13T15:43:50Z",
                 "open_issues": 45,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1384,
+                "stars": 1385,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -301,7 +301,7 @@
                 "open_issues": 19,
                 "owner": "dennybritz",
                 "repo": "neal-react",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -322,7 +322,7 @@
                 "open_issues": 4,
                 "owner": "flexdinesh",
                 "repo": "dev-landing-page",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": [
                   "boilerplate",
                   "developer",
@@ -1168,8 +1168,8 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-11T17:16:26Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-13T15:09:23Z",
+                "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
                 "stars": 89,
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:46:53.472Z",
+    "last_updated": "2026-10-13T19:53:51.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
