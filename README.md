@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,891 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,334 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,7 +10,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,959 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,957 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
 * <https://github.com/ant-design/ant-design-landing> ⭐ 6,522 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
@@ -50,7 +50,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 533 | 🐛 0 | 📅 2022-02-22
 
-* <https://github.com/StartBootstrap/startbootstrap-shop-homepage> ⭐ 491 | 🐛 6 | 🌐 Pug | 📅 2023-10-30
+* <https://github.com/StartBootstrap/startbootstrap-shop-homepage> ⭐ 490 | 🐛 6 | 🌐 Pug | 📅 2023-10-30
 
 * <https://github.com/swcool/landing-page-theme> ⭐ 472 | 🐛 6 | 🌐 CSS | 📅 2024-01-17
 
@@ -88,7 +88,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/kriasoft/AngularJS-SPA-Template> ⭐ 103 | 🐛 12 | 🌐 CSS | 📅 2017-05-11
 
-* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-10-16
+* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-10-17
 
 * <https://github.com/wonderfullandingpage/Technology-LandingPage> ⭐ 84 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-01
 
@@ -108,7 +108,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/coala/landing-frontend> ⭐ 33 | 🐛 61 | 🌐 HTML | 📅 2019-01-15
 
-* <https://github.com/doniwirawan/Gradient-Landing-Page/> ⭐ 20 | 🐛 1 | 🌐 HTML | 📅 2025-05-13
+* <https://github.com/doniwirawan/Gradient-Landing-Page/> ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2025-05-13
 
 * <https://github.com/ahmedhamodi/ahmedhamodi.github.io> ⭐ 10 | 🐛 5 | 🌐 JavaScript | 📅 2023-11-12
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

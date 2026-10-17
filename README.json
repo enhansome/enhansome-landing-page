@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6959,
+                "stars": 6957,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -597,7 +597,7 @@
                 "open_issues": 6,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-shop-homepage",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -1168,7 +1168,7 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-16T16:04:56Z",
+                "last_commit": "2026-10-17T15:24:49Z",
                 "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
@@ -1422,7 +1422,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2025-05-13T08:39:48Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "doniwirawan",
                 "repo": "doniwirawan.github.io",
                 "stars": 20,
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:31:58.766Z",
+    "last_updated": "2026-10-17T16:31:03.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3820,
+      "stars": 3819,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
