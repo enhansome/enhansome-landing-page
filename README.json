@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "css",
                   "html",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1388,
+                "stars": 1389,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -1168,7 +1168,7 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-17T15:24:49Z",
+                "last_commit": "2026-10-18T08:25:57Z",
                 "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:31:03.636Z",
+    "last_updated": "2026-10-18T16:37:08.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
