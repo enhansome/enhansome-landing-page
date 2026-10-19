@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6957,
+                "stars": 6956,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2311,
+                "stars": 2312,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1974,
+                "stars": 1973,
                 "topics": [
                   "css",
                   "html",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:37:08.031Z",
+    "last_updated": "2026-10-19T19:22:37.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
