@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2312,
+                "stars": 2313,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T15:43:50Z",
+                "last_commit": "2026-10-20T17:03:56Z",
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -248,7 +248,7 @@
                 "open_issues": 18,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1450,
+                "stars": 1449,
                 "topics": [
                   "html",
                   "landing-page",
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "android",
                   "darkmode",
@@ -442,7 +442,7 @@
                 "language": "SCSS",
                 "license": "MIT",
                 "last_commit": "2026-09-30T21:13:57Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
                 "stars": 671,
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:22:37.277Z",
+    "last_updated": "2026-10-20T18:01:20.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
