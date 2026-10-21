@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,841 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,279 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,15 +10,15 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,956 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,954 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
-* <https://github.com/ant-design/ant-design-landing> ⭐ 6,522 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
+* <https://github.com/ant-design/ant-design-landing> ⭐ 6,523 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
 * <https://github.com/sproogen/modern-resume-theme> ⭐ 2,313 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,295 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
-* <https://github.com/jglovier/resume-template> ⭐ 1,973 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
+* <https://github.com/jglovier/resume-template> ⭐ 1,972 | 🐛 26 | 🌐 HTML | 📅 2026-08-31
 
 * <https://github.com/Blazity/next-saas-starter> ⭐ 1,700 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-20
 
@@ -40,7 +40,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/cssninjaStudio/fresh> ⭐ 671 | 🐛 9 | 🌐 SCSS | 📅 2026-09-30
 
-* <https://github.com/Esri/esri.github.io> ⭐ 631 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
+* <https://github.com/Esri/esri.github.io> ⭐ 632 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
 * <https://github.com/joashp/material-design-template> ⭐ 591 | 🐛 9 | 🌐 JavaScript | 📅 2021-10-18
 
@@ -60,7 +60,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/StartBootstrap/startbootstrap-one-page-wonder> ⭐ 399 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-24
 
-* <https://github.com/wonderfullandingpage/mylandingpage> ⭐ 266 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-18
+* <https://github.com/wonderfullandingpage/mylandingpage> ⭐ 267 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-18
 
 * <https://github.com/website-templates/portfolio_one-page-template> ⭐ 263 | 🐛 3 | 🌐 HTML | 📅 2024-05-11
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

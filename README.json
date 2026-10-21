@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6956,
+                "stars": 6954,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6522,
+                "stars": 6523,
                 "topics": [
                   "design",
                   "editor",
@@ -141,7 +141,7 @@
                 "open_issues": 26,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1973,
+                "stars": 1972,
                 "topics": [
                   "css",
                   "html",
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "css",
                   "github",
@@ -751,7 +751,7 @@
                 "open_issues": 4,
                 "owner": "wonderfullandingpage",
                 "repo": "mylandingpage",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "landing",
                   "landing-page",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:01:20.228Z",
+    "last_updated": "2026-10-21T18:07:56.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3819,
+      "stars": 3818,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
