@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6954,
+                "stars": 6955,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6523,
+                "stars": 6524,
                 "topics": [
                   "design",
                   "editor",
@@ -120,7 +120,7 @@
                 "open_issues": 45,
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
-                "stars": 2295,
+                "stars": 2294,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -165,11 +165,11 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T17:03:56Z",
+                "last_commit": "2026-10-22T13:14:05Z",
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -245,7 +245,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2024-04-25T15:34:07Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
                 "stars": 1449,
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:07:56.020Z",
+    "last_updated": "2026-10-22T18:02:55.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
