@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6955,
+                "stars": 6954,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6524,
+                "stars": 6523,
                 "topics": [
                   "design",
                   "editor",
@@ -442,7 +442,7 @@
                 "language": "SCSS",
                 "license": "MIT",
                 "last_commit": "2026-09-30T21:13:57Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
                 "stars": 671,
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:02:55.225Z",
+    "last_updated": "2026-10-23T17:54:17.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3818,
+      "stars": 3819,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
