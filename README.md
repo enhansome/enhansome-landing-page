@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,003 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,604 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -34,7 +34,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,151 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
-* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 941 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
+* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 942 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
 * <https://github.com/nordicgiant2/react-nice-resume> ⭐ 684 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-16
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
