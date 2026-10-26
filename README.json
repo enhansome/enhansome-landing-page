@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T23:22:17Z",
+                "last_commit": "2026-10-26T15:28:32Z",
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1670,
+                "stars": 1671,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -348,7 +348,7 @@
                 "open_issues": 7,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-new-age",
-                "stars": 1151,
+                "stars": 1152,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -710,7 +710,7 @@
                 "open_issues": 4,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-one-page-wonder",
-                "stars": 399,
+                "stars": 400,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -811,7 +811,7 @@
                 "open_issues": 3,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-business-frontpage",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -953,7 +953,7 @@
                 "open_issues": 4,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-heroic-features",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:06:32.563Z",
+    "last_updated": "2026-10-26T19:25:12.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3820,
+      "stars": 3821,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
