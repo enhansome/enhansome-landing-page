@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,100 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,620 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,11 +10,11 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,954 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,952 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
 * <https://github.com/ant-design/ant-design-landing> ⭐ 6,523 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
-* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,313 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
+* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,312 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,294 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
@@ -28,17 +28,17 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/Tomotoes/HomePage> ⭐ 1,389 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
-* <https://github.com/dennybritz/neal-react> ⭐ 1,382 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
+* <https://github.com/dennybritz/neal-react> ⭐ 1,381 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,347 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
 * <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,152 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
-* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 942 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
+* <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 941 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
 * <https://github.com/nordicgiant2/react-nice-resume> ⭐ 684 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-16
 
-* <https://github.com/cssninjaStudio/fresh> ⭐ 671 | 🐛 10 | 🌐 SCSS | 📅 2026-09-30
+* <https://github.com/cssninjaStudio/fresh> ⭐ 671 | 🐛 9 | 🌐 SCSS | 📅 2026-09-30
 
 * <https://github.com/Esri/esri.github.io> ⭐ 632 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
@@ -62,7 +62,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/wonderfullandingpage/mylandingpage> ⭐ 267 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-18
 
-* <https://github.com/website-templates/portfolio_one-page-template> ⭐ 263 | 🐛 3 | 🌐 HTML | 📅 2024-05-11
+* <https://github.com/website-templates/portfolio_one-page-template> ⭐ 264 | 🐛 3 | 🌐 HTML | 📅 2024-05-11
 
 * <https://github.com/StartBootstrap/startbootstrap-business-frontpage> ⭐ 249 | 🐛 3 | 🌐 Pug | 📅 2023-05-24
 
@@ -76,7 +76,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/StartBootstrap/startbootstrap-heroic-features> ⭐ 178 | 🐛 4 | 🌐 JavaScript | 📅 2023-08-16
 
-* <https://github.com/adrienjoly/landing-page-boilerplate> ⭐ 155 | 🐛 3 | 🌐 HTML | 📅 2022-03-09
+* <https://github.com/adrienjoly/landing-page-boilerplate> ⭐ 154 | 🐛 3 | 🌐 HTML | 📅 2022-03-09
 
 * <https://github.com/smartergiving/free-nonprofit-starter-website> ⚠️ Archived
 
@@ -88,7 +88,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/kriasoft/AngularJS-SPA-Template> ⭐ 103 | 🐛 12 | 🌐 CSS | 📅 2017-05-11
 
-* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-10-18
+* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-10-26
 
 * <https://github.com/wonderfullandingpage/Technology-LandingPage> ⭐ 84 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-01
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
