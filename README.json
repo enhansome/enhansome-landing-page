@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6953,
+                "stars": 6952,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6525,
+                "stars": 6526,
                 "topics": [
                   "design",
                   "editor",
@@ -120,7 +120,7 @@
                 "open_issues": 45,
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
-                "stars": 2294,
+                "stars": 2293,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -248,7 +248,7 @@
                 "open_issues": 19,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": [
                   "html",
                   "landing-page",
@@ -442,7 +442,7 @@
                 "language": "SCSS",
                 "license": "MIT",
                 "last_commit": "2026-09-30T21:13:57Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
                 "stars": 671,
@@ -655,7 +655,7 @@
                 "open_issues": 3,
                 "owner": "amiechen",
                 "repo": "codrops-scribbler",
-                "stars": 463,
+                "stars": 462,
                 "topics": [
                   "codrops",
                   "css3",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:00:35.116Z",
+    "last_updated": "2026-10-30T18:40:59.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
