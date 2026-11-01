@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,912 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,432 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -10,7 +10,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-* <https://github.com/gitname/react-gh-pages> ⭐ 6,952 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
+* <https://github.com/gitname/react-gh-pages> ⭐ 6,953 | 🐛 33 | 🌐 TypeScript | 📅 2024-12-10
 
 * <https://github.com/ant-design/ant-design-landing> ⭐ 6,525 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
@@ -26,11 +26,11 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,451 | 🐛 19 | 🌐 HTML | 📅 2024-04-25
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,389 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,388 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,381 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
-* <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,347 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
+* <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,348 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
 * <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,152 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

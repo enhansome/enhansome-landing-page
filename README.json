@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6952,
+                "stars": 6953,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1389,
+                "stars": 1388,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -322,7 +322,7 @@
                 "open_issues": 4,
                 "owner": "flexdinesh",
                 "repo": "dev-landing-page",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": [
                   "boilerplate",
                   "developer",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:49:32.539Z",
+    "last_updated": "2026-11-01T18:28:03.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3821,
+      "stars": 3822,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
