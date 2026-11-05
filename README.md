@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,895 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,680 | 🐛 103 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -14,19 +14,19 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/ant-design/ant-design-landing> ⭐ 6,528 | 🐛 74 | 🌐 JavaScript | 📅 2024-08-05
 
-* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,312 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
+* <https://github.com/sproogen/modern-resume-theme> ⭐ 2,309 | 🐛 11 | 🌐 HTML | 📅 2024-06-15
 
 * <https://github.com/carlsednaoui/ouibounce> ⭐ 2,293 | 🐛 45 | 🌐 JavaScript | 📅 2017-05-14
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,974 | 🐛 24 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,702 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-02
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,702 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-05
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,671 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
 * <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,451 | 🐛 19 | 🌐 HTML | 📅 2024-04-25
 
-* <https://github.com/Tomotoes/HomePage> ⭐ 1,390 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
+* <https://github.com/Tomotoes/HomePage> ⭐ 1,391 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01
 
 * <https://github.com/dennybritz/neal-react> ⭐ 1,381 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-12
 
@@ -40,7 +40,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/cssninjaStudio/fresh> ⭐ 671 | 🐛 10 | 🌐 SCSS | 📅 2026-09-30
 
-* <https://github.com/Esri/esri.github.io> ⭐ 633 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
+* <https://github.com/Esri/esri.github.io> ⭐ 634 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
 * <https://github.com/joashp/material-design-template> ⭐ 591 | 🐛 9 | 🌐 JavaScript | 📅 2021-10-18
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

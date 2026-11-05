@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2312,
+                "stars": 2309,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T16:40:49Z",
+                "last_commit": "2026-11-05T17:37:19Z",
                 "open_issues": 44,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 633,
+                "stars": 634,
                 "topics": [
                   "css",
                   "github",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:28:15.165Z",
+    "last_updated": "2026-11-05T20:43:23.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3823,
+      "stars": 3822,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
