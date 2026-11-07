@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6953,
+                "stars": 6954,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1671,
+                "stars": 1672,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -527,7 +527,7 @@
                 "open_issues": 37,
                 "owner": "omegasisters",
                 "repo": "homepage",
-                "stars": 579,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:59:20.167Z",
+    "last_updated": "2026-11-07T18:06:12.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
