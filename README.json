@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6954,
+                "stars": 6952,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6536,
+                "stars": 6538,
                 "topics": [
                   "design",
                   "editor",
@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T17:37:19Z",
+                "last_commit": "2026-11-11T18:03:04Z",
                 "open_issues": 43,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -655,7 +655,7 @@
                 "open_issues": 3,
                 "owner": "amiechen",
                 "repo": "codrops-scribbler",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "codrops",
                   "css3",
@@ -919,7 +919,7 @@
                 "open_issues": 30,
                 "owner": "imedadel",
                 "repo": "automatic-gatsbyjs-app-landing-page",
-                "stars": 195,
+                "stars": 194,
                 "topics": [
                   "app",
                   "automatic",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:29:55.957Z",
+    "last_updated": "2026-11-11T20:15:27.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3823,
+      "stars": 3825,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
