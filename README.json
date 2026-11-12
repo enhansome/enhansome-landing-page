@@ -141,7 +141,7 @@
                 "open_issues": 24,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1974,
+                "stars": 1975,
                 "topics": [
                   "css",
                   "html",
@@ -169,7 +169,7 @@
                 "open_issues": 43,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -501,7 +501,7 @@
                 "open_issues": 9,
                 "owner": "joashp",
                 "repo": "material-design-template",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "html-template",
                   "material",
@@ -1168,7 +1168,7 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-07T22:05:38Z",
+                "last_commit": "2026-11-12T09:39:00Z",
                 "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T20:15:27.097Z",
+    "last_updated": "2026-11-12T20:57:01.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
