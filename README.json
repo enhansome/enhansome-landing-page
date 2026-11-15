@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6539,
+                "stars": 6540,
                 "topics": [
                   "design",
                   "editor",
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -597,7 +597,7 @@
                 "open_issues": 6,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-shop-homepage",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -710,7 +710,7 @@
                 "open_issues": 4,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-one-page-wonder",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:46:05.907Z",
+    "last_updated": "2026-11-15T19:24:34.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
