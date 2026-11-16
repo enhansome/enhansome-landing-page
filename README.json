@@ -85,7 +85,7 @@
                 "open_issues": 11,
                 "owner": "sproogen",
                 "repo": "modern-resume-theme",
-                "stars": 2310,
+                "stars": 2309,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -141,7 +141,7 @@
                 "open_issues": 24,
                 "owner": "jglovier",
                 "repo": "resume-template",
-                "stars": 1975,
+                "stars": 1974,
                 "topics": [
                   "css",
                   "html",
@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T18:03:04Z",
+                "last_commit": "2026-11-16T19:17:56Z",
                 "open_issues": 43,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -248,7 +248,7 @@
                 "open_issues": 19,
                 "owner": "tailwindtoolbox",
                 "repo": "Landing-Page",
-                "stars": 1451,
+                "stars": 1452,
                 "topics": [
                   "html",
                   "landing-page",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1391,
+                "stars": 1393,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -384,7 +384,7 @@
                 "open_issues": 16,
                 "owner": "sandoche",
                 "repo": "Mobile-app-landingpage-template",
-                "stars": 939,
+                "stars": 940,
                 "topics": [
                   "android",
                   "darkmode",
@@ -574,7 +574,7 @@
                 "open_issues": 0,
                 "owner": "byoungd",
                 "repo": "Resume-template-for-Coder",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "resume-template"
                 ]
@@ -655,7 +655,7 @@
                 "open_issues": 3,
                 "owner": "amiechen",
                 "repo": "codrops-scribbler",
-                "stars": 463,
+                "stars": 462,
                 "topics": [
                   "codrops",
                   "css3",
@@ -1168,7 +1168,7 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-12T09:39:00Z",
+                "last_commit": "2026-11-16T18:03:02Z",
                 "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:24:34.550Z",
+    "last_updated": "2026-11-16T22:56:39.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
