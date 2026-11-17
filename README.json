@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "gitname",
                 "repo": "react-gh-pages",
-                "stars": 6950,
+                "stars": 6951,
                 "topics": [
                   "create-react-app",
                   "deployment",
@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6540,
+                "stars": 6541,
                 "topics": [
                   "design",
                   "editor",
@@ -120,7 +120,7 @@
                 "open_issues": 45,
                 "owner": "carlsednaoui",
                 "repo": "ouibounce",
-                "stars": 2293,
+                "stars": 2294,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:31.481Z"
@@ -211,7 +211,7 @@
                 "open_issues": 14,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-landing-page",
-                "stars": 1673,
+                "stars": 1674,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1393,
+                "stars": 1394,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:56:39.516Z",
+    "last_updated": "2026-11-17T21:49:22.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
