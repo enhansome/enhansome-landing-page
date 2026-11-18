@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,499 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,988 | 🐛 104 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -20,9 +20,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,974 | 🐛 24 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,703 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-16
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,704 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-16
 
-* <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,674 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
+* <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,673 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
 * <https://github.com/tailwindtoolbox/Landing-Page> ⭐ 1,452 | 🐛 19 | 🌐 HTML | 📅 2024-04-25
 
@@ -54,7 +54,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/swcool/landing-page-theme> ⭐ 476 | 🐛 6 | 🌐 CSS | 📅 2024-01-17
 
-* <https://github.com/amiechen/codrops-scribbler> ⭐ 462 | 🐛 3 | 🌐 HTML | 📅 2023-10-07
+* <https://github.com/amiechen/codrops-scribbler> ⭐ 461 | 🐛 3 | 🌐 HTML | 📅 2023-10-07
 
 * <https://github.com/vercel/spr-landing> ⭐ 451 | 🐛 9 | 🌐 CSS | 📅 2023-08-16
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
