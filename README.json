@@ -165,7 +165,7 @@
                 "id": 402884762,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T19:17:56Z",
+                "last_commit": "2026-11-20T19:33:04Z",
                 "open_issues": 43,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:40:31.094Z",
+    "last_updated": "2026-11-20T21:18:51.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
