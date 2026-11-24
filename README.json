@@ -49,7 +49,7 @@
                 "open_issues": 74,
                 "owner": "ant-design",
                 "repo": "ant-design-landing",
-                "stars": 6540,
+                "stars": 6539,
                 "topics": [
                   "design",
                   "editor",
@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "SimonAKing",
                 "repo": "HomePage",
-                "stars": 1394,
+                "stars": 1395,
                 "topics": [
                   "homepage",
                   "personal-website"
@@ -442,7 +442,7 @@
                 "language": "SCSS",
                 "license": "MIT",
                 "last_commit": "2026-09-30T21:13:57Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "cssninjaStudio",
                 "repo": "fresh",
                 "stars": 671,
@@ -989,7 +989,7 @@
                 "open_issues": 3,
                 "owner": "adrienjoly",
                 "repo": "landing-page-boilerplate",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "css",
                   "google-analytics",
@@ -1168,7 +1168,7 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-16T18:03:02Z",
+                "last_commit": "2026-11-23T22:59:16Z",
                 "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:24:34.349Z",
+    "last_updated": "2026-11-24T01:01:27.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
