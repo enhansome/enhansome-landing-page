@@ -1,6 +1,6 @@
 # Awesome Landing Page with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,798 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,386 | 🐛 103 | 📅 2026-09-02
 
 ## 🚀 A series of beautiful and practical landing page templates
 
@@ -20,7 +20,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/jglovier/resume-template> ⭐ 1,975 | 🐛 24 | 🌐 HTML | 📅 2026-08-31
 
-* <https://github.com/Blazity/next-saas-starter> ⭐ 1,704 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-25
+* <https://github.com/Blazity/next-saas-starter> ⭐ 1,705 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-25
 
 * <https://github.com/StartBootstrap/startbootstrap-landing-page> ⭐ 1,672 | 🐛 14 | 🌐 Pug | 📅 2024-07-08
 
@@ -32,7 +32,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/flexdinesh/dev-landing-page> ⭐ 1,348 | 🐛 4 | 🌐 HTML | 📅 2024-05-20
 
-* <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,151 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
+* <https://github.com/StartBootstrap/startbootstrap-new-age> ⭐ 1,152 | 🐛 7 | 🌐 Pug | 📅 2023-05-24
 
 * <https://github.com/sandoche/Mobile-app-landingpage-template> ⭐ 939 | 🐛 16 | 🌐 HTML | 📅 2024-01-17
 
@@ -40,17 +40,17 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/cssninjaStudio/fresh> ⭐ 671 | 🐛 9 | 🌐 SCSS | 📅 2026-09-30
 
-* <https://github.com/Esri/esri.github.io> ⭐ 636 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
+* <https://github.com/Esri/esri.github.io> ⭐ 635 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25
 
 * <https://github.com/joashp/material-design-template> ⭐ 590 | 🐛 9 | 🌐 JavaScript | 📅 2021-10-18
 
 * <https://github.com/omegasisters/homepage> ⭐ 578 | 🐛 37 | 🌐 HTML | 📅 2024-10-29
 
-* <https://github.com/Jaredk3nt/homepage> ⭐ 540 | 🐛 3 | 🌐 HTML | 📅 2024-07-22
+* <https://github.com/Jaredk3nt/homepage> ⭐ 541 | 🐛 3 | 🌐 HTML | 📅 2024-07-22
 
 * <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 532 | 🐛 0 | 📅 2022-02-22
 
-* <https://github.com/StartBootstrap/startbootstrap-shop-homepage> ⭐ 490 | 🐛 6 | 🌐 Pug | 📅 2023-10-30
+* <https://github.com/StartBootstrap/startbootstrap-shop-homepage> ⭐ 491 | 🐛 6 | 🌐 Pug | 📅 2023-10-30
 
 * <https://github.com/swcool/landing-page-theme> ⭐ 476 | 🐛 6 | 🌐 CSS | 📅 2024-01-17
 
@@ -88,7 +88,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 * <https://github.com/kriasoft/AngularJS-SPA-Template> ⭐ 103 | 🐛 12 | 🌐 CSS | 📅 2017-05-11
 
-* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-11-25
+* <https://github.com/brikis98/yevgeniy-brikman-homepage> ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2026-11-26
 
 * <https://github.com/wonderfullandingpage/Technology-LandingPage> ⭐ 84 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-01
 
@@ -264,4 +264,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

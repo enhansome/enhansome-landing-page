@@ -169,7 +169,7 @@
                 "open_issues": 43,
                 "owner": "Blazity",
                 "repo": "next-saas-starter",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": [
                   "hacktoberfest",
                   "jamstack",
@@ -348,7 +348,7 @@
                 "open_issues": 7,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-new-age",
-                "stars": 1151,
+                "stars": 1152,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -474,7 +474,7 @@
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "esri.github.io",
-                "stars": 636,
+                "stars": 635,
                 "topics": [
                   "css",
                   "github",
@@ -548,7 +548,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -597,7 +597,7 @@
                 "open_issues": 6,
                 "owner": "StartBootstrap",
                 "repo": "startbootstrap-shop-homepage",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "bootstrap",
                   "bootstrap-4",
@@ -1168,7 +1168,7 @@
                 "id": 33806754,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-25T22:15:22Z",
+                "last_commit": "2026-11-26T18:02:37Z",
                 "open_issues": 11,
                 "owner": "brikis98",
                 "repo": "yevgeniy-brikman-homepage",
@@ -1510,7 +1510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:37:28.769Z",
+    "last_updated": "2026-11-26T22:26:48.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of beautiful and practical landing page templates",
@@ -1522,7 +1522,7 @@
       "open_issues": 7,
       "owner": "nordicgiant2",
       "repo": "awesome-landing-page",
-      "stars": 3826,
+      "stars": 3828,
       "topics": []
     },
     "original_repository_sha": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
